@@ -1,0 +1,1845 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tythes ended by Christ with the Levitical priesthood and therefore no maintenance for a Gospel-ministry, nor lawful for Christians to pay or take under the dispensation of the Gospel : being an answer to two reviling pamphlets written against the people of God called Quakers, because they refuse to pay tythes : the one by C.N. a Presbyterian, and the other by Cress Wheatly, an Episcopal priest : the said C.N. and C.W. are herein justly rebuked for their enmity and lyes against the people of God, and their arguments and plea for tythes considered and fully answered, and the people of God vindicated in their refusing to pay tythes / by the servants of the Lord, T. Rudyard and W. Gibson ; also a postscript by George Watt ; also some brief observations upon some passages in a book, entituled, Christ's call to professors, by W.G.</title>
+            <author>Rudyard, Thomas, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 85 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57824</idno>
+            <idno type="STC">Wing R2183</idno>
+            <idno type="STC">ESTC R12032</idno>
+            <idno type="EEBO-CITATION">13127063</idno>
+            <idno type="OCLC">ocm 13127063</idno>
+            <idno type="VID">97836</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57824)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97836)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 750:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tythes ended by Christ with the Levitical priesthood and therefore no maintenance for a Gospel-ministry, nor lawful for Christians to pay or take under the dispensation of the Gospel : being an answer to two reviling pamphlets written against the people of God called Quakers, because they refuse to pay tythes : the one by C.N. a Presbyterian, and the other by Cress Wheatly, an Episcopal priest : the said C.N. and C.W. are herein justly rebuked for their enmity and lyes against the people of God, and their arguments and plea for tythes considered and fully answered, and the people of God vindicated in their refusing to pay tythes / by the servants of the Lord, T. Rudyard and W. Gibson ; also a postscript by George Watt ; also some brief observations upon some passages in a book, entituled, Christ's call to professors, by W.G.</title>
+                  <author>Rudyard, Thomas, d. 1692.</author>
+                  <author>Gibson, William, 1629-1684.</author>
+                  <author>Watt, George, Lover of the truth. Tythes no Gospel-ordinance.</author>
+               </titleStmt>
+               <extent>42+ p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Added t.p. on p. [31]: Tythes no Gospel-ordinance ... by G.W., 1673.</note>
+                  <note>Imperfect: lacking all after p. 42 (Part 2).</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wheatley, Cress.</term>
+               <term>Gibson, William, 1629-1684.</term>
+               <term>Nedham, Clement, --  Presbyterian.</term>
+               <term>Howgill, Francis, 1618-1669. --  Great case of tythes.</term>
+               <term>Society of Friends --  England.</term>
+               <term>Tithes --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:97836:1"/>
+                  <pb facs="tcp:97836:1" rendition="simple:additions"/>
+                  <p>TYTHES
+Ended by Chriſt
+WITH THE
+Levitical Prieſthood.</p>
+                  <p>And therefore no Maintenance for a Goſpel-Mi<g ref="char:EOLhyphen"/>niſtry,
+nor Lawful for <hi>Chriſtians</hi> to Pay or Take un<g ref="char:EOLhyphen"/>der
+the Diſpenſation of the GOSPEL.</p>
+                  <p>Being an Anſwer to two Reviling Pamphlets written
+againſt the People of God called <hi>Quakers,</hi> becauſe they Refuſe
+to pay <hi>Tythes.</hi> The one by <hi>C. N.</hi> a <hi>Presbyterian;</hi> and the other
+by <hi>Creſs Wheatly,</hi> an <hi>Epiſcopal Prieſt.</hi> The ſaid <hi>C. N.</hi> and <hi>C. W.</hi>
+are herein juſtly Rebuked for their Enmity and Lyes againſt
+the People of God, and their Arguments and Plea for <hi>Tythes</hi>
+conſidered and fully anſwered. And the People of God Vin<g ref="char:EOLhyphen"/>dicated
+in their <hi>Refuſing to pay Tythes.</hi>
+                  </p>
+                  <p>By the Servants of the Lord, <hi>T. Rudyard</hi> and <hi>W. Gibſon.</hi>
+Alſo a <hi>Poſtſcript</hi> by <hi>George Watt.</hi>
+                  </p>
+                  <p>Alſo ſome brief Obſervations upon ſome Paſſages in a Book,
+Entituled, <hi>Chriſt's Call to Profeſſors,</hi> by <hi>W. G.</hi>
+                  </p>
+                  <q>The Prieſthood being changed, there is alſo a Neceſſity of the Change of
+the Law, <bibl>
+                        <hi>Heb.</hi> 7. 12.</bibl> Freely ye have Received, Freely Give, <bibl>
+                        <hi>Mat</hi> 10. 8.</bibl>
+Ho, every one that thirſteth, come ye to the Waters, and he that hath no
+Money, come buy and eat Milk &amp; Wine, yea, without Money &amp; with<g ref="char:EOLhyphen"/>out
+Price. Why will ye ſpend your Money for that which is not Bread,
+and your Labour for that which doth not ſatisfie? <bibl>
+                        <hi>Iſa.</hi> 55. 1, 2.</bibl> The
+Spirit and the Bride ſay, Come, and let him that heareth ſay, Come;
+and let him that is a Thirſt come; and whoſoever will let him take
+the Water of Life Freely,</q>
+                  <bibl>Rev. 22. 17. 21. 6.</bibl>
+                  <p>Printed in the Year, 1673.</p>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:97836:2" rendition="simple:additions"/>
+                  <pb n="3" facs="tcp:97836:2" rendition="simple:additions"/>
+                  <head>TO THE
+Conſiderate READER.</head>
+                  <opener>
+                     <salute>FRIEND,</salute>
+                  </opener>
+                  <p>THink it not ſtrange, that <hi>Conteſts</hi> of this kind ſhould
+be 'twixt <hi>Us</hi> and our <hi>Adverſaries:</hi> I muſt tell
+thee, 'Tis not a Quarrel of Yeſterday, but bares date
+from mens Apoſtacy from the true Faith of Jeſus. There<g ref="char:EOLhyphen"/>fore
+have we in the <hi>Proteſtants Book of
+Martyrs,</hi>
+                     <note place="margin">Fox Acts &amp; Mon. 1 Tom. fol, 618. An. Dom. 1401.</note> amongſt others, the Complaint
+of a good <hi>Chriſtian W. S.</hi> on this wiſe;
+<q rend="inline margQuotes">"Whereas (ſaith he) Chriſt's Law bids
+to miniſter Spiritual Things Freely to the people; the <hi>Pope</hi>
+with his Law ſells for Money after the quantity of the Gift,
+Bleſſing Sacraments, Preaching to the People, as is known a<g ref="char:EOLhyphen"/>mongſt
+them."</q> The Profeſſors of Religion at this day upon
+frequent Occaſions pride themſelves not a little, yea, loudly
+b<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſt of the faithful Teſtimonies of theſe Men, yet bluſh not o<g ref="char:EOLhyphen"/>penly
+to appear in Oppòſition to their Doctrine, and to ſtab their
+Teſtimonies by their contrary Practices (<hi>Phariſee</hi>-like, <hi>Gar<g ref="char:EOLhyphen"/>niſhing
+the Sepulchres of the Prophets, whom their
+Fathers wickedly ſlew) Mat.</hi> 23. 29.</p>
+                  <p>The Perſon who now contends for this Forced Maintenance is
+one <hi>Clement Nedham</hi> of <hi>Saxelby,</hi> in or near the Vale of <hi>Be<g ref="char:EOLhyphen"/>voyr</hi>
+alias <hi>Beaver</hi> in <hi>
+                        <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eiceſter-ſhire;</hi> he's a Stranger to me;
+only this I hear of him, that he is of no ſmall Accompt in thoſe
+Parts, having been an eminent Captain in our late Civil Wars,
+and has his Houſe Licenſed for <hi>Presbyters</hi> or <hi>Independants</hi>
+                     <pb n="4" facs="tcp:97836:3" rendition="simple:additions"/>
+to preach in. How ſuitable a Work it was for him or them to ſet
+their hands unto at this day, I leave to the Judicious to conſider.</p>
+                  <p>Had <hi>Tythes</hi> been his or their Goſpel-Maintenance under
+their preſent Non-conformity, 'twould have been Colour of Quar<g ref="char:EOLhyphen"/>rel:
+Had the old Antipathy 'twixt them and the Conformiſts
+been worn out, then to have pleaded for their Friend, had been
+tollerable: But without any ſuch Pretence, Cauſe or Provo<g ref="char:EOLhyphen"/>cation
+on our part (Reader) has his Work been to tell our <hi>Ad<g ref="char:EOLhyphen"/>verſaries,</hi>
+we are <hi>Thieves, Robbers, Lyars, Slanderers,</hi>
+and ſuch like; and what Ground he hath for it, let God and Good
+Men judge. Read his Charge and our Defence, and then thou'lt
+know his Miſtake and our Innocency. 'Tis probable thou knoweſt
+our Sufferings have not been a little in this Cauſe; weigh but the
+<hi>Circumſtances</hi> of the Man, and his <hi>Work,</hi> and thou wilt ſee
+how much his End is to Incenſe, when more he cannot act againſt
+us.</p>
+                  <closer>
+                     <salute>Farewel,</salute>
+                     <signed>Thomas Rudyard.</signed>
+                     <dateline>Lumbar-Street London,
+<date>
+                           <hi>4th Moneth,</hi> 1673.</date>
+                     </dateline>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="letter">
+                  <pb n="5" facs="tcp:97836:3" rendition="simple:additions"/>
+                  <opener>
+                     <salute>FRIEND,</salute>
+                  </opener>
+                  <p>THy Letter, bearing date from <hi>Saxelby, 18 Feb.</hi> 1672
+directed to thy Neighbours of <hi>Claxton,</hi> has been
+conſidered: The Matter therein laid down is no new
+thing, but thy Manner of Argument rather a <hi>Novelty,</hi> which
+in its place I may take notice of. Thou art pleaſed to enter<g ref="char:EOLhyphen"/>tain
+thy Reader with an Accompt of thy many Years Obſerva<g ref="char:EOLhyphen"/>tion
+of the Conteſts 'twixt th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe called <hi>Prieſts,</hi> and thoſe cal<g ref="char:EOLhyphen"/>led
+<hi>Quakers</hi> concerning <hi>Tythes,</hi> the one Demanding, the o<g ref="char:EOLhyphen"/>ther
+Refuſing the Payment thereof; in and for which the for<g ref="char:EOLhyphen"/>mer
+have under-gone <hi>bitter Declamations,</hi> and the latter <hi>grievous
+Impriſonments and Sufferings from their Adverſaries.</hi> Whence its
+no hard Matter to conclud thee rather a Stander by, then one
+intereſted in the Quar<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>el; yet not ſo far to exclude thy Concern,
+but to a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>knowledg thy <hi>Aff<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ctions</hi> lean to one Party, as the Streſs
+of thy Lines clearly evidence. I am with many more of o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e mind
+with thee, <hi>That as God will blaſt all Men's Diviſed Services to him</hi>
+(of which number was this of <hi>Ty<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hes) ſo alſo their pretended (not
+real) Conſcience-Sufferings for him:</hi> And the Lord God is evi<g ref="char:EOLhyphen"/>dencing
+them in theſe dayes, although the Blind ſee it not;
+and of this are there many Witneſſes.</p>
+                  <p>But having read thy pretended Serious and Conſcientious
+Concern for Perſons, whoſe grievous Impriſonments and Suf<g ref="char:EOLhyphen"/>fe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ings
+(under Pretence at leaſt of Co<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ience) as thy own
+words are) have affected thee with Comp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſion, I exp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cted no
+leſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Eff<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct of ſuch Affections, then a Caſe of <hi>Conſcience</hi> ſeriouſ<g ref="char:EOLhyphen"/>ly
+Stated, and ſolidly R<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſolved, as a fit <hi>Medium</hi> for the De<g ref="char:EOLhyphen"/>termination
+of the Juſtneſs or U<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>juſtn<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſs of their Teſtimony,
+ſuppoſing, that under leſs weighty Conſideration no Ingenious
+Man would attempt a Reſolve of that Great and Old Caſe of
+Conteſt<g ref="char:punc">▪</g> 'twixt the holy <hi>Martyrs of Jeſus</hi> and the <hi>Popiſh Prelates</hi>
+in the Ages and Generations p<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt, now revived 'twixt us and
+their Succeſſors in Cruelty. In this thou ſeemeſt noval.</p>
+                  <p>
+                     <pb n="6" facs="tcp:97836:4" rendition="simple:additions"/>
+Thou art pleaſed among many more (in behalf of Tythes)
+to appear an <hi>Advocate</hi> againſt us; but whether the <hi>King, Prieſt,
+Pope, Presbyter, &amp;c.</hi> have in thy Senſe Right to them, is yet
+in Reſence, but we Thieves and Robbers for taking and detain<g ref="char:EOLhyphen"/>ing
+what's not our own; ſtrange ſevere Judgment. So that
+from a pretended <hi>Compaſſionator</hi> of our grievous Sufferings, thou
+pr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſently ſheweth thy ſelf an open <hi>Accuſer</hi> of the Oppreſſed;
+and how Juſtly, I queſtion not to manifeſt in its place.</p>
+                  <p>Thou putteſt this Queſtion, What Right in the People to
+Tythes? alledging, That if the People have not Right, 'twill
+not concern our Conſciences, whether <hi>King, Prieſt, Pope,</hi> or
+who will take them. A ſtrange Aſſertion; the like to my
+Knowledge I never before met withal. What I not concern
+the Conſcience of a <hi>Chriſtian,</hi> whether the Tenth of his La<g ref="char:EOLhyphen"/>bour,
+Induſtry, and all he has and enjoys by the Bleſſing of God,
+be given up to the Praiſe of his Maker, or to the <hi>Pope, Prieſt,
+Belial, Devil,</hi> who will take them? I do really demand of thee
+to ſearch all the Dark and Helliſh <hi>Traditions</hi> of the <hi>Jews,</hi> that
+made void the Law of God, and all the <hi>Decretals</hi> of <hi>Popiſh
+Councils</hi> and <hi>Prelatical Synods</hi> ſince the Apoſtacy, and find the
+like Inſtance of <hi>Atheiſm.</hi> To ſay, <hi>It matters not who has Right,</hi>
+is begging the Queſtion, that will never be granted. For cer<g ref="char:EOLhyphen"/>tainly,
+if part of my <hi>Strength, Daily Labour, Sweat</hi> of my
+<hi>Brows, Yearly Encreaſe</hi> of that <hi>Subſtance,</hi> which <hi>God</hi> makes me
+Steward of here to his Praiſe, ſhall be demanded of me, 'tis
+but Reaſonable I ſhould know, <hi>who he is, that requires ſuch Ser<g ref="char:EOLhyphen"/>vit<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ds?</hi>
+elſe, wherein I ſhould be God's Freeman, I may be
+the Devil's Slave. In my Apprehenſion it had been moſt Juſt
+and Reaſonable, firſt to have <hi>aſſerted</hi> the <hi>Pope, Prieſts, Presby<g ref="char:EOLhyphen"/>ter,
+&amp;c.</hi> his Title to the things in demand; and when their
+Propriety had been ſufficiently <hi>demonſtrated,</hi> it had been early
+enough to have inſinuated the <hi>Quakers</hi> Th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eves and Robber<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+for refuſing to work and labour under ſuch <hi>Tusk-Maſters.</hi>
+                  </p>
+                  <p>But here thou proclaimeſt to the World a Deſign to ſtigma<g ref="char:EOLhyphen"/>tize
+others, rather then to clear the Innocency of thy own
+Party: ſo without Breach of Charity thou'lt incur the cenſure,
+a <hi>Partial Controvertiſt.</hi>
+                  </p>
+                  <p>
+                     <pb n="7" facs="tcp:97836:4" rendition="simple:additions"/>
+And now to the Queſtion, <hi>What Right have the People to Tythes<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+I might anſwer by this Queſtion, What Right has any others
+to them? For certainly the Law preſumes every Man to have
+a good Right to what he poſſeſſes, till his Oppoſer Out him by
+ſhewing a better Title. Therefore have we a common An<g ref="char:EOLhyphen"/>gliciſm,
+<hi>That of Twelve, Poſſeſſion is Eleaven Points of the Law.</hi>
+And that Man hath good Right to enjoy the Fruit of his La<g ref="char:EOLhyphen"/>bours,
+Strength and Induſtry, as to thoſe outward Concerns,
+wherewith <hi>God</hi> has bleſt him; and to be accomptable to his
+Creator is moſt conſonant to the Rule of Holy Scriptures and
+Right Reaſon. This in <hi>general;</hi> but to thy <hi>Particulars.</hi>
+                  </p>
+                  <p>Thou propoſeſt in thy Plea for Tythes, That all manner of
+Right and Propriety muſt needs be conveyed to Men in or by
+ſome of theſe five Wayes, <hi>viz.</hi>
+                  </p>
+                  <list>
+                     <item>1. Either Free Gift, or Donation from God or Man to Man.</item>
+                     <item>2. Or Right of Inheritance from Anceſtors.</item>
+                     <item>3. Or Purchaſe,—one Man from another.</item>
+                     <item>4. Or Compact, Bargain or Releaſe</item>
+                     <item>5. Or Poſſeſſion, or Occupancy.</item>
+                  </list>
+                  <p>I ſhall not oppoſe thy Diſtinctions, but grant, that theſe or
+ſuch like muſt be the Wayes, whereby Right ought to be con<g ref="char:EOLhyphen"/>veyed,
+and Propriety ſettled amongſt Men; adding only, that
+its ſtill abſolutely neceſſary in every of theſe,</p>
+                  <p>1. As to the Gift, that it be not given to <hi>a void End,</hi> and ſo
+becomes null.</p>
+                  <p>2. That there be a <hi>Lawful Heir,</hi> that claimeth by Inheri<g ref="char:EOLhyphen"/>tance.</p>
+                  <p>3. That for a Purchaſe, Compact or Bargain 'twixt Man
+and Man there be a <hi>Real Conſideration</hi> given, &amp; Vender has right
+to ſell.</p>
+                  <p>4. That Right attend the Occupancy or Poſſeſſion.</p>
+                  <p>Give but theſe their due Place, and Reaſon ſhall be Judge
+betwixt us, Whether <hi>Pope, Prieſt,</hi> or their <hi>Aſſignes</hi> have abſo<g ref="char:EOLhyphen"/>lute
+Right to the things in <hi>demand,</hi> or <hi>we</hi> whom God has made
+Poſſeſſors of them? And truly, if under any of theſe reaſona<g ref="char:EOLhyphen"/>ble
+Titles our <hi>Adverſaries</hi> had made their <hi>Claim,</hi> and we refuſed
+<pb n="7" facs="tcp:97836:5" rendition="simple:additions"/>
+to render <hi>Right,</hi> it had been colour of Cenſure. But to declaim a<g ref="char:EOLhyphen"/>gainſt
+a People for detaining that which no Man claims (for
+ought appears by thine) is Unjuſt <hi>Clamour.</hi> Bear with me, if I
+term thy Proprietor No Man. For its a Common Maxime, <hi>Idem
+eſt non eſſe, &amp; non appavere;</hi> 'tis the ſame, not to be, as not to ap<g ref="char:EOLhyphen"/>pear.
+And when the <hi>Prieſt, Pope, Presbyter,</hi> or any, who will
+produce a better Title to Imbondage, then we have to evidence
+our Freedom, I queſtion not, but we ſhall avoid to be juſtly
+cenſured for detaining what's not our <hi>own;</hi> But that we, as
+well as others, ſhall have all manner of Evil ſpoke againſt us
+falſly for the ſake of our Maſter, no wiſe doubt.</p>
+                  <p>And although our Poſſeſſion be a Plea ſufficient againſt the
+Decimators Cract Title to the things in demand; yet to re<g ref="char:EOLhyphen"/>move
+all Scruple relating to our Juſt Intereſt, I ſhall be wil<g ref="char:EOLhyphen"/>ling
+to enter into Examination of what is offered againſt us,
+and deſcend to the <hi>Particulars,</hi> as laid down in thy <hi>Letter.</hi>
+                  </p>
+                  <p>1. Firſt, <hi>Of the firſt, viz.</hi> Donation of God or Man. <hi>Here thou
+telleſt us,</hi> That thou preſumeſt, that we denying them to be a Divine
+Right to the Clergy will not ſo claim them.</p>
+                  <p>
+                     <hi>Anſw.</hi> Here I muſt tell thee, that thou grandly Miſtakes us<g ref="char:punc">▪</g>
+For I anſwer, We claim (as the free Gift of God) our Under<g ref="char:EOLhyphen"/>ſtanding,
+Strength, Ability to Labour, the Product and En<g ref="char:EOLhyphen"/>creaſe
+of the Fruit of our Fields and the Fleece of our Flocks
+(out of which our Enemies would extort a Tenth) which we
+know the Lord God above gives, and thereof has made us
+Stewards, requiring us to be faithful, that when he calls we
+may render unto him (who is the Giver of all) a Juſt Accompt;
+And not to be found as Prodigalls waſting our Subſtance a<g ref="char:EOLhyphen"/>mongſt
+Harlo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, but that with all we have and do enjoy we
+may render unto him the Praiſe of all, who is worthy, having
+laid a holy Conſtraint upon our Souls not to put into the Mouths
+of <hi>Pope, Prieſt, Presbyter,</hi> or ſuch like, who are Enemies unto his
+Truth: Nor we cannot own thoſe Laws of <hi>Pope, Prieſt,</hi> &amp;c.
+to be <hi>Juſt</hi> that would <hi>take away</hi> from us what God freely <hi>gives</hi>
+unto us, to uphold their falſe Worſhips: So is our Teſtimony
+from God againſt them and their Laws, although to the Loſs
+of our outward Liberty and Eſtates, and to the incurring of
+<pb n="9" facs="tcp:97836:5" rendition="simple:additions"/>
+ſuch bitter Cenſures as thy ſelf utters forth againſt us. And
+as to <hi>Man's Donation</hi> which thou counts to be conſidered under
+thy <hi>next Head,</hi> may be there taken notice of.</p>
+                  <p>2. What right (ſayeſt thou) is due to Men by Inheritance
+from Anceſtors.</p>
+                  <p>
+                     <hi>Sayeſt thou to clear our Underſtanding in this Queſtion
+'tis neceſſary to enquire into the Strength or Truth of that
+common Objection. viz.</hi> That Tythes were originally a forced
+Payment by Injuſtice of humane Laws; and that what is <g ref="char:V">Ʋ</g>njuſtly
+taken at firſt, can never be made Lawful by Duration of Time, or
+Poſſeſſion. <hi>For Anſwer of which</hi> Objection <hi>thou telleſt us,</hi> its
+worthy Conſideration, whether the Objection ſtrikes not more at
+our Nine parts then at the Clergy's Tenths <hi>of the things in Conteſt;
+undertaking to demonſtrate it from the Norman's</hi> Conqueſt of this
+Nation, by forreign Force, diſtributing the Lands to Natives, or
+others, to hold of him as chief Lord, reſerving Rents, Duties, and
+Services, then continuing the Tenths to the Clergy, forcing the Lands
+in great part from the Owners, gave them to others, of whom we pur<g ref="char:EOLhyphen"/>chaſed,
+alledging further, that <hi>Ethelwolph</hi> a <hi>Saxon</hi> Conquerer, four
+hundred Years before, conquered this Nation, and enriched the Church<g ref="char:punc">▪</g>
+viz. the Clergy, with Tythes of all Lands, Goods, &amp;c. ſince which
+time they have held them without Force, or not ſo forced as the other
+Part of the Conqueſts.</p>
+                  <p>
+                     <hi>Anſw.</hi> How little this makes for thy Party, or againſt us,
+will appear upon Examination. I obſerve to this ſecond Que<g ref="char:EOLhyphen"/>ſtion,
+of <hi>what Right is due to Men by Inheritance from Anceſtors?</hi>
+thou firſt offereſt this.</p>
+                  <p>1. That common Objection, that <hi>Tythes</hi> were Originally
+forced by Injuſtice of <hi>humane Laws,</hi> and that what is <hi>unjuſtly</hi>
+taken at firſt, can never be made <hi>Lawfull</hi> by duration of Time
+or Poſſeſſion.</p>
+                  <p>2. <hi>Endeavours a Solution of it, by alledging,</hi> Our Eſtates
+were Originally forced by often Conqueſts.</p>
+                  <p>3. A Concluſion to thy own Diſcourſe, that <hi>Tythes were
+never ſo forced.</hi> Thefe being the Subſtance of that Paragraph,
+lets examine them apart, and in order.</p>
+                  <p>
+                     <hi>1ſt.</hi> Whether the Strength or Truth of the Objection be removed,
+<pb n="10" facs="tcp:97836:6" rendition="simple:additions"/>
+that (<hi>in thy Sence</hi>) defends ours, or that Allegation proved and
+made good which defends our <hi>Adverſaries</hi> Title?</p>
+                  <p>Anſw. 1. I admit, the Objection is full to the Purpoſe;
+and clear thy <hi>Tythes</hi> from the Strength and Truth thereof,
+and the Caſe is altered, from what I have underſtood it to be.</p>
+                  <p>2. Thou giveſt us an Hiſtorical Diſcourſe of <hi>England</hi>'s of<g ref="char:EOLhyphen"/>ten
+Conqueſts and Invaſions, particularly by the <hi>Norman,</hi>
+who diſpoſſeſſed a great part of the Inhabitants of their Lands,
+which was a Force upon the Inhabitants and a Piece of Injuſtice
+done them, gave much of it to his Vaſſals or Subjects, of
+whom we purchaſed. Therefore infinuates, <hi>we have more
+Reaſon to queſtion all ours, then the Decimat<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rs Part;</hi> and this
+thou wouldſt have thy <hi>Reader</hi> take for Solution of the <hi>Objection;</hi>
+Alas! its not thy <hi>Dixi,</hi> but <hi>Reaſon</hi> in others, that muſt con<g ref="char:EOLhyphen"/>clude,
+on which ſide the Ballance falls? What haſt thou ſaid
+that's true, but would have been granted without ſuch Pains,
+to write what's otherwiſe, might have been ſpared. Yet all
+that ſaid little to the End propoſed, <hi>viz.</hi> to remove the ſtrength
+or truth of that Objection.</p>
+                  <p>1. I grant, that the Nation was Invaded and Conquered by
+the <hi>Norman.</hi>
+                  </p>
+                  <p>2. <hi>But ſayeſt thou,</hi> He forced the Lands in great part, at leaſt,
+from the Owners, and gave to his Vaſſals.</p>
+                  <p>What thou meaneſt by <hi>[great part at leaſt from the Owners]</hi> I
+acknowledge my ſelf Ignorant: A ſtrange ſort of fraimed Ex<g ref="char:EOLhyphen"/>preſſion!
+But thy after words would explain.</p>
+                  <p>
+                     <hi>Sayeſt thou,</hi> From theſe Vaſſal<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Sales have been made from hand
+to hand, till they are come down to you and I.</p>
+                  <p>So by the words <hi>[the Lands in great part at leaſt from the Ow<g ref="char:EOLhyphen"/>ners]</hi>
+we muſt underſtand in thy ſenſe, <hi>All the Lands in</hi> England,
+without Exception. Here I am ſure thou haſt <hi>abuſed</hi> thy <hi>Rea<g ref="char:EOLhyphen"/>der;</hi>
+for Hiſtory ſpeaks no ſuch Matter, many Families ha<g ref="char:EOLhyphen"/>ving
+the Titles of their Land, by which they held them before
+the <hi>Conqueſt</hi> confirmed unto him, as thou alledgeſt Tythes were
+to the <hi>Clergy.</hi>
+                  </p>
+                  <p>Its true, Thoſe who are in Actual War in ſuch Revolutions,
+are often debarr'd of the Enjoyment of their Eſtates, as late
+Experience has ſhewen in this Nation; but that all were Outed
+<pb n="11" facs="tcp:97836:6" rendition="simple:additions"/>
+their Poſſeſſions, nothing leſs. So upon an Uncertain, Ficti<g ref="char:EOLhyphen"/>tious
+and Groundleſs Suppoſition thou haſt drawn that ſtrange
+Concluſion.</p>
+                  <p>Yet haſt not <hi>weakened</hi> or <hi>removed</hi> the <hi>Objection.</hi> For I ob<g ref="char:EOLhyphen"/>ſerve,
+thou neither denyeſt, or waveſt the latter part of the
+Objection; but it yet remains upon thee, <hi>What is unjuſtly ta<g ref="char:EOLhyphen"/>ken
+at firſt, can never be made Lawful by Duration of Time or Poſſeſſi<g ref="char:EOLhyphen"/>on:</hi>
+but oppoſeſt the firſt part of the <hi>Objection</hi> by telling us, that
+<hi>Tythes</hi> were never <hi>ſo forced.</hi> The Contrary, if prov'd by us, will
+evidence, whether has been Injurious we or thee in this Matter<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+and that falls to be conſidered under the 3d Head.</p>
+                  <p>
+                     <hi>Sayeſt thou,</hi> Tythes were not ſo forced.</p>
+                  <p>
+                     <hi>Anſw.</hi> I have not a little wondered at thy <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xpreſſion, which
+is no better then a direct Untruth, by what thy ſelf writeſt<g ref="char:punc">▪</g>
+for in a few Lines after thou makeſt the Force of <hi>our Nine Parts</hi>
+and the <hi>Clergy</hi>'s <hi>Tenths</hi> ſo parallel, that I cannot ſee the Diffe<g ref="char:EOLhyphen"/>rence.
+Sayeſt thou, Ethelwolph, <hi>King of the</hi> Saxons <hi>was of
+Forraign <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ace, and came in by Conqueſt, as did the</hi> Norman. What
+then alters theſe Caſes, that they differ in thy ſenſe, I know
+not. But let us query a little.</p>
+                  <p>1. Was <hi>Ethelwolph</hi> the firſt Poſſeſſor or Planter of this Na<g ref="char:EOLhyphen"/>tion?
+Nothing leſs.</p>
+                  <p>2. Does it appear, that <hi>Ethelwolph</hi> was Peaceably, and
+without Force poſſeſſed of this Land? Sayeſt thou, he Conque<g ref="char:EOLhyphen"/>red
+it, as did the <hi>Norm<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n?</hi>
+                  </p>
+                  <p>3. Had he an Authority and Juriſdiction over the Minds,
+Perſons, Underſtandings, Eſtates, Labours and Induſtries of
+the People, whereby he could grant and diſpoſe ſuch a Share to
+one, and ſuch to another, as he pleaſed? Unreaſonable to
+believe.</p>
+                  <p>4. Nay, further, Had he theſe without Force or Violence?
+No; nor with it.</p>
+                  <p>5. Were the Tenths of all theſe ſeparate from the People's
+Nine Parts (as thou termeſt them) whereby the Force and Vi<g ref="char:EOLhyphen"/>olence
+of <hi>Ethelwolph</hi> could not touch them? Reaſon denyes it.
+Yet thou ſayſt, <hi>Theſe were not ſo forced,</hi> I muſt tell thee, this
+is to thy <hi>Reader</hi> a Ridiculous Riddle, yea, meer Non-ſenſe.</p>
+                  <p>
+                     <pb n="12" facs="tcp:97836:7" rendition="simple:additions"/>
+6. But <hi>Sixthly,</hi> That thou mayſt know the Sacredneſs of
+this King's Grant, read the Hiſtory of thoſe Times, and 'twill
+inform, what Condition <hi>Ethelwolph</hi> was in, when this <hi>Royal
+Grant</hi> was made:</p>
+                  <p>1. When he was under the Horror of Conſcience for the In<g ref="char:EOLhyphen"/>nocent
+Blood ſhed by him.</p>
+                  <p>2. The heavy Preſſures of <hi>Daniſh</hi> Invaſions.</p>
+                  <p>3. The Land under inteſtine Wars.</p>
+                  <p>Then ſaid <hi>Ethelwolph, Promeo Remedi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, Animae &amp; Regni, &amp;c.</hi>
+to remove the ſore Judgments that were upon him and this
+Land, <hi>I give the Tythes of all the Land unto God and his Servants,</hi>
+as the Phraſe then was.</p>
+                  <p>So under theſe <hi>Circumſtances</hi> of <hi>Horror, Wars</hi> and <hi>Diſtracti<g ref="char:EOLhyphen"/>on</hi>
+did the Zeal of this King offer up the People's Juſt Intereſt,
+and Propriety, as a Sacrifice to his Devotion, and that in
+the Mid-night of <hi>Popery.</hi>
+                  </p>
+                  <p>And if <hi>Ethelwolph</hi>'s Conqueſt was not as Violent and Forci<g ref="char:EOLhyphen"/>ble,
+as the <hi>No man</hi>'s yea m<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re, I unde<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtand nothing. For,
+ſayſt thou, <hi>The</hi> Saxon <hi>took the whole Land into his Deme<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>zn;</hi> Which
+the <hi>Normans</hi> 
+                     <gap reason="illegible" resp="#TECH" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ver did; ſo for more Cruel to its Inhabit<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nts,
+out of which he granted a lenth to the <hi>Popiſh Clergy:</hi> If this
+was not <hi>Force,</hi> what is <hi>Freedom?</hi>
+                  </p>
+                  <p>So that the Tenths appear not only to be <hi>ſo forced</hi> as our E<g ref="char:EOLhyphen"/>ſtates,
+but under Inſtances of more diſm<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l and <gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> C<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<g ref="char:EOLhyphen"/>plections;
+ſo that I ſee not the leaſt colour of Doubt, but that
+<hi>Tythes</hi> were originally a <hi>Forced Payment</hi> by <hi>Juſtice</hi> of huma<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e
+<hi>Laws.</hi> So by thy own Shewing Duration of <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ime cannot make
+them <hi>Lawful.</hi>
+                  </p>
+                  <p>
+                     <hi>Sayeſt thou,</hi> But admitting it true, that T<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thes were forced from
+the true Owners of the Lands. It will not concern the preſent People,
+you or me, unleſs we peruſe our Lineal Deſcent f<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om the Perſons,
+to whom the Injuſtice was firſt done.</p>
+                  <p>
+                     <hi>Anſw.</hi> 1. Then 'tis granted, that the Perſons Line <gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Heirs,
+who have ſuffered ſuch <hi>Wrong</hi> at firſt have Reaſon to b<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Righ<g ref="char:EOLhyphen"/>ted:</hi>
+Why then, ſince there's good Reaſon to believe, this
+Nation's Anci<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt Inhabitants have many of thei<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Right
+Heirs yet living, why were not they excepted out of that Pro<g ref="char:EOLhyphen"/>miſcuous
+Cenſure of thine to be Thieves and Robbers for de<g ref="char:EOLhyphen"/>taining
+<pb n="13" facs="tcp:97836:7" rendition="simple:additions"/>
+what poſſibly might be their own? Here thou haſt been
+Uncharitable.</p>
+                  <p>2. But ſurely thou canſt not be Ignorant, that if I pur<g ref="char:EOLhyphen"/>chaſe
+an Eſtate of another, I have as abſolute Right, Intereſt
+and Title to have and enjoy all and every the Rights, Intereſts
+and Priviledge which the Seller of Right had at the Time
+of the Sale, yea, as much as any former Heir or Poſſeſſor of
+the Land had, hath, or ought to have; ſo I that purchaſe,
+am in the ſtate, ſtead and place of the Right Heir, and have
+all that he hath, or ought to have. In this Matter alſo thy Ob<g ref="char:EOLhyphen"/>jection
+is of no Force.</p>
+                  <p>
+                     <hi>Sayeſt thou,</hi> If you or I came in by way of Purchaſe, ſince that
+Injuſtice done, had Abatement in the Purchaſe for the conſideration of
+the Tenths, therefore but Nine Parts ours; <hi>and putteſt a</hi> Caſe of
+two Fields of an equal value purchaſed one Tythable, the other Not,
+we pay a Rate accordingly.</p>
+                  <p>
+                     <hi>Anſw. 1. Generally</hi> thou draweſt a poſitive Concluſion from an
+uncertain Effect, which is Falacious Argumentation. Sayeſt
+thou [<hi>If you or I came in by way of Purchaſe, &amp;c.</hi>] which con<g ref="char:EOLhyphen"/>cludes
+not, that ſo we came in, but might be Heirs Lineally
+deſcended; which I ſhall now let paſs, and anſwer thee in thy
+own Senſe more particularly.</p>
+                  <p>2. Then 2dly, The <hi>Fallacy</hi> and <hi>Abfurdity</hi> of this Poſition of
+thine appears thus:</p>
+                  <p>1ſt, As to the <hi>Purchaſe,</hi> We never purchaſed <hi>Nine Parts</hi> of <hi>Ten,</hi>
+as thou affirmeſt, but the Whole, with the Rights, Members
+and Appertenances thereof. For if but Nine; why then do not
+the Decimators take their Tenth themſelves. I demand of
+thee, if ever thou ſaweſt in all thy Obſervation ſuch a Deed
+of Purchaſe? Yea further, Had there been ſuch a Reſerve of the
+Tenth Part to the Sellor or Holy Church, as the Pretenders to
+it termed, thou hadſt had Colour of Exception.</p>
+                  <p>2dly, Conſider what Tenth is demanded? Not of the Land,
+the Soyl, or the Renewing Graſs of the Field only, which
+we purchaſed; but the Tenth of our <hi>Labour, Induſtry, <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding,
+Corn, Grain, Flocks, Herds, the Produce of whatever
+Care and good Husbandry</hi> (with the Bleſſing of God) <hi>improves
+<pb n="14" facs="tcp:97836:8" rendition="simple:additions"/>
+toward a Lively-hood,</hi> theſe were the People's or our's before <hi>Pope,
+Prieſt</hi> or <hi>Presbyter</hi> had any footing in them; and theſe we pur<g ref="char:EOLhyphen"/>chaſe
+not of the Seller of the Land. So that if they have any
+Right in theſe, it muſt be by that old Claim the Churches <hi>Jur<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+Divino,</hi> as has been their Plea for many <hi>Centeries;</hi> for our La<g ref="char:EOLhyphen"/>bour,
+Induſtry, &amp;c. as before we never purchaſed at the Hands
+of <hi>Pope, Presbyter, Vaſſal,</hi> or any others. But</p>
+                  <p>3dly, Was this Injuſtice done our Predeceſſors? Well then,
+is it Juſt to <hi>intail</hi> it to their Heirs and Succeſſors forever?
+Was my Father and Grand-father oppreſſed by ill Neighbours,
+muſt I therefore undergo the like Bondage, and not ſeek a Re<g ref="char:EOLhyphen"/>medy,
+becauſe they endured it? That were offering Violence
+to <hi>Reaſon.</hi>
+                  </p>
+                  <p>
+                     <hi>Say<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt thou,</hi> We had Abatement in the Purchaſe, therefore it
+concerns us not to ſcruple at the Incumbrance.</p>
+                  <p>
+                     <hi>Anſw.</hi> I'll put one (of many Caſes) Parallel to this Pur<g ref="char:EOLhyphen"/>poſe,
+then judge of it, <hi>viz.</hi> In many Parts of this Nation,
+particularly in <hi>Kent,</hi> by reaſon of the many frequent <hi>Rob<g ref="char:EOLhyphen"/>beries</hi>
+committed on Travellers, wh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe Relief is to Implead
+the particular Hundred or Neighbourhood, where ſuch Inju<g ref="char:EOLhyphen"/>ſtice
+is done. By reaſon of the frequent Suits brought againſt
+them their Lands are ſold 1, 2. or 3. years Purchaſe under the
+Rate of their Neighbours; Now I appeal to thee, Whether
+it be Unreaſon<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ble that the Inhabitants ſhould concern them<g ref="char:EOLhyphen"/>ſelves
+to prevent ſuch accuſtomed Robberies, becauſe they or
+their Predeceſſors had a former Abatement in the Purchaſe?
+Compare but the Caſes, and thou wilt eaſily diſcern the Com<g ref="char:EOLhyphen"/>plexion
+of thy own Aſſertion, viz. <hi>That it concerns not us, becauſe
+we had Abatement.</hi>
+                  </p>
+                  <p>
+                     <hi>The next Argument thou draweſt is,</hi> That <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e that con<g ref="char:EOLhyphen"/>veys
+the Eſtate to us by Deed, ſells the Eſtate under ſuch Rents, Du<g ref="char:EOLhyphen"/>ties
+and Services, as are chargeable at that time upon it; and we
+that purchaſe ſet our Hands, as Parties, to ſuch Conveyances, im<g ref="char:EOLhyphen"/>plying
+our Acceptance of the Lands with all known Incumbrances, of
+which Tythes are one</p>
+                  <p>
+                     <hi>Anſw.</hi> 1. I ab<gap reason="illegible" resp="#TECH" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lutely deny, as abſurd, that Tythes are Part
+of the Rents and Services reſerved Purchaſe, and admire thou
+<pb n="15" facs="tcp:97836:8" rendition="simple:additions"/>
+ſhouldſt impoſe that upon thy Reader, which probably thou
+muſt or mayſt know to be clearly otherwiſe. Read but the
+Clauſe in our Deed of Purchaſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and it will explain it ſelf,
+viz. <hi>To be holden of the Chief Lord, or Lord of the Fee or Fees of
+the Premiſes for the Rents and Services therefore Due, and of Right
+Accuſtomed.</hi> Ask but the meaneſt Man of Reaſon, and he'll
+correct thy Underſtanding, if thou pleadeſt Ignorance in this
+Point.</p>
+                  <p>So that I ſhall conclude this Head (that Tythes being origi<g ref="char:EOLhyphen"/>nally
+a Forced Payment by Injuſtice of Humane Laws, which
+thou haſt not evidenced to the contrary; and that, <hi>What is
+<g ref="char:V">Ʋ</g>njuſtly taken at firſt, can never be made Lawful by Duration of
+Time or Poſſeſſion;</hi> which thou layeſt down, and denyeſt not)
+and is certainly true, That whatever our Anceſtors were a<g ref="char:EOLhyphen"/>buſed
+in by <hi>Popes Bull<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, Tyrannical Impoſitions, <g ref="char:V">Ʋ</g>nreaſonable
+Bondages of Prelatical Decrees,</hi> 'tis conſiſtant with Reaſon we
+ſhould be caſed thereof, and is no Plea or Ground for their
+Continuance; Right being our Due, not Bondage our In<g ref="char:EOLhyphen"/>heritance
+from Anceſtors.</p>
+                  <p>
+                     <hi>3d Head.</hi> Sayeſt thou, <hi>What Right by way of Purchaſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>?</hi> To
+anſwer this, it being an Appendent upon the former, thither
+thou referreſt thy Reader back, rather Repeating then Adding
+to what was ſaid before; alledging, <hi>Our Anceſtors purchaſed
+their Lands with this Impoſition of Tythes.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> 1. I anſwer, That they were Rightfully impoſed,
+or Juſtly ſettled, there's nothing offered; but much to the
+Contrary. And that our Anceſtors could purchaſe Injuſtice,
+and intail it to their Succeſſors, I abſolutely deny, and thou
+proveſt not: If that were practicable, what would have become
+of their Succeſſors by this day? Reflect at Leaſure upon thoſe
+Violations of the People's Liberties, that have in former Ages
+been frequently acted upon the Stage of this Nation, ſome of
+them under Colour of Law,<note place="margin">See Cook 2 Inſt.</note> by no leſs then
+by an Act of Parliament,<note place="margin">Mag. Charta.</note> yet not Autho<g ref="char:EOLhyphen"/>rity
+to Entail Injuſtice to after Genera<g ref="char:EOLhyphen"/>tion</p>
+                  <p>
+                     <pb n="16" facs="tcp:97836:9" rendition="simple:additions"/>
+2. And if I purchaſe an Eſtate, I buy it with all the Right,
+Intereſt, &amp;c. which the Vendor hath or <hi>ought</hi> to have in, to,
+or out of the ſame; and if any pretends, he has an Incumbrance
+upon my Eſtate, he muſt evidence, it was righly charged, <hi>viz.</hi>
+That there was a valuable Conſideration for ſuch Charge upon
+it; which, certain I am, <hi>none</hi> was given for this Demand or
+Incumbrance of <hi>Tythes.</hi> Yea, what Value could be given to
+<hi>part</hi> with <hi>what</hi> God gave Man, and expects from Man, to he
+knows not <hi>whom?</hi> God requires his Service all the Day long:
+Shall he work one or two Hours thereof for the Devil; and
+anſwer God, <hi>He was Hired, as his Fore-Fathers were Hired;</hi> or
+a Covenant was long ſince made with Hell and Death by ſome
+other Perſons, that had as aſſumed a Juriſdiction over us, it
+concerns us not? But a Covenant from us he never had, nor
+can our Adverſaries pretend it: Where's then the Reaſon for
+ſuch Incumbrance? So unleſs thou doeſt produce one, whoſe
+Pretence to the Tenth of my Eſtate, Labour, Induſtry, &amp;c.
+is backt with Reaſon (The Law has a Maxime, <hi>C<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſante rati<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ne
+ceſſat ipſa lex</hi>) ſuch as is a Valuable Conſideration for his De<g ref="char:EOLhyphen"/>mands
+expect no leſs, then that the <hi>Right</hi> I have purchaſed will
+defend me from all other <hi>Trivial</hi> and <hi>
+                        <g ref="char:V">Ʋ</g>njuſt Claims.</hi> And ex<g ref="char:EOLhyphen"/>cept
+thou findeſt a good and juſt Foundation for the firſt Sta<g ref="char:EOLhyphen"/>bliſhment
+and Impoſition of Tenths upon us, look not to Im<g ref="char:EOLhyphen"/>poſe
+either the Uſe of former Tenants Cuſtom of the Na<g ref="char:EOLhyphen"/>tion,
+Antiquity of <hi>Popes</hi> Decretals, backt with Humane
+Laws, ſince all manner of Wickedneſs, Cruelty and Op<g ref="char:EOLhyphen"/>preſſion
+have in one Age or other had as equal Colou<g ref="char:EOLhyphen"/>rable
+Authority to enforce their Continuance and Impo<g ref="char:EOLhyphen"/>ſition
+upon the People. Then which I ſee nothing offered by
+thee.</p>
+                  <p>4th Head. <hi>To thy 4th Head,</hi> What Right by Compact or Releaſe
+from Man to Man.</p>
+                  <p>
+                     <hi>Anſw.</hi> I ſee no more in this then thy be<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ting again the <hi>former
+troden Path</hi> The <hi>Tenant</hi> has the <hi>Leaſer</hi>'s <hi>Right,</hi> the <hi>Farm</hi> is the <hi>Te<g ref="char:EOLhyphen"/>nant</hi>'s,
+the <hi>Rent</hi> the <hi>Land-lord</hi>'s; and whatever was the Leaſor's
+Right to have is in the Leaſe, as to the Land he holds, pay<g ref="char:EOLhyphen"/>ing
+<pb n="17" facs="tcp:97836:9" rendition="simple:additions"/>
+his reſerved Rent. But the Tenants Strength, Labour,
+Induſtry and Underſtanding, the Encreaſe of Stock, is not
+by Leaſe from the Land-lord, but by the free Gift of God
+(as was ſaid before) of and from whom he holds it. If <hi>Prieſt,
+Pope, &amp;c.</hi> have a Tenth of the Land, why does he not ſow
+it and improve it to his own Advantage. 'Tis that only we
+claim under the Land-lord, If he pretends to a Right to the
+Tenth of our <hi>Labour, Induſtry, &amp;c.</hi> let him produce his Title;
+and if it precede, or be ſuperiour to our's, we ſhall conde<g ref="char:EOLhyphen"/>ſcend:
+till then, our Land-lord's Title has ſet us free from
+<hi>Prieſt, Pope, Presby<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er,</hi> or whoever claims by, from, or under
+them.</p>
+                  <p>5th Head. What Right by virtue of Poſſeſſion or Occupancy?
+This (<hi>ſayeſt thou</hi>) is a Proper, Natural and Juſt Claim to the
+firſt Planters and Poſſeſſors of any Part of the Earth, not before poſ<g ref="char:EOLhyphen"/>ſeſſed
+or planted.</p>
+                  <p>
+                     <hi>Anſw.</hi> 'Tis well then, from the beginning it was not ſo:
+And how then came this Courſe to be altered? The Great God
+gave Man the Fruit of his Induſtry, Wiſdom and Underſtan<g ref="char:EOLhyphen"/>ding;
+the <hi>Pope</hi> took part of it away, and gives it to his Crea<g ref="char:EOLhyphen"/>tures;
+was not this Inv<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntion of Man (that altered the
+Courſe that God had made) Evil, God's Law made void by
+Man's Traditions? So Tythes entred; Man coming to God
+and his Law again, denies Tythes, that the Devil had ſettled
+contrary to the Pure Holy Law. And here's the Quarrel 'twixt
+the <hi>Prieſt, Pope, Presbyter, &amp;c.</hi> &amp; the People called <hi>Quakers,</hi> who
+cannot put into their Mouthes; ſo <hi>Prieſt, Pope, Presbyter, &amp;c.</hi>
+prepare War againſt them. And we do reſpect the <hi>Intention</hi>
+of Buyer and Seller, Donor and Donee, he that made us Poſſeſ<g ref="char:EOLhyphen"/>ſors,
+and he that would Diſpoſſeſs; and conclude, as <hi>Chriſti<g ref="char:EOLhyphen"/>ans,</hi>
+That in deſpight of <hi>Popes Decrees, Prieſts Canons, &amp;c.</hi> we
+are free from all their Dark and Superſtitious Gifts and Impo<g ref="char:EOLhyphen"/>ſitions
+whatſoever.</p>
+                  <p>And he, who will take the Pains to enquire, may be well Infor<g ref="char:EOLhyphen"/>med,
+That this Impoſition of Tythes was not the Fruit of <hi>Chri<g ref="char:EOLhyphen"/>ſtianity,</hi>
+but an Effect of the <hi>Chriſtian<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Apoſtacy</hi> from the Faith
+<pb n="18" facs="tcp:97836:10" rendition="simple:additions"/>
+of Jeſus: For the <hi>Chriſtians</hi> many Hundred Years after
+Chriſt knew no ſuch thing as Tythes, till the <hi>Popes</hi> and <hi>Pre<g ref="char:EOLhyphen"/>latick</hi>
+Authority impoſed them by their <hi>Bulls, Decrees</hi> and <hi>Ca<g ref="char:EOLhyphen"/>nons:</hi>
+But that theſe <hi>Bulls, Decrees</hi> and <hi>Canons</hi> did meet with
+many Oppoſitions from the Faithful Martyrs of Jeſus, is plen<g ref="char:EOLhyphen"/>tifully
+ſet forth in Hiſtory,<note place="margin">Fox Acts &amp; Mon. <hi>p.</hi> 564, 605, 607, 621.</note> as of many
+more we may inſtance <hi>John Wickliff, John
+Huſs, William Thorpe; William Swinderly,
+Walter Brint,</hi> and many others bear their
+Teſtimonies againſt this Antichriſtian Impoſition, and all o<g ref="char:EOLhyphen"/>ther
+Unjuſt and Forced <hi>Prieſt Maintenance,</hi> which for Con<g ref="char:EOLhyphen"/>ſcience
+ſake towards God they could not (no more then we)
+ſubmit unto; yet in all their Converſation towards Men
+were Blameleſs; whoſe Faithfulneſs will be had in Everla<g ref="char:EOLhyphen"/>ſting
+Remembrance with them that fear the Lord, and bear
+Witneſs to his Holy Name, which is ſet up as a Standard to the
+Nations, and thoſe that put their Truſt in him is he pretious,
+although a Stumbling-Stone, and a Rock of Offence to all ſuch
+who have and do wilfully D<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſpiſe his Tender of Mercy, and
+this his Day of Viſitation.</p>
+                  <p>In caſe thou beeſt an Enquirer, I doubt not thy Informa<g ref="char:EOLhyphen"/>tion;
+if an Impoſer upon others, I do not in the leaſt ſuppoſe
+its Prevalency with ſuch, whoſe Hearts are towards God.
+However, if there yet remains a Spirit in thee to oppoſe us,
+take the Pains to conſult the Learned Rabbies of thy Party
+and Perſwaſion, and fairly ſtate this Caſe of Tythes, and plain<g ref="char:EOLhyphen"/>ly
+tell your Opinions and Iudgments,
+<list>
+                        <item>1. Whether <hi>Prieſt, Pope,</hi> or who elſe have
+Right to them,</item>
+                        <item>2. Who are to pay them,
+<list>
+                              <item>and for what?</item>
+                           </list>
+                        </item>
+                        <item>3. By what Authority? whether of God, Holy Scrip<g ref="char:EOLhyphen"/>tures,
+Edicts and Decrees of Popes, Princes, Parliaments
+or Councils, by which of them are they to be payed? who
+hath ſet them up, and when ſet up? Let us underſtand the Ti<g ref="char:EOLhyphen"/>tle
+plainly by which they are claimed.</item>
+                     </list>
+                  </p>
+                  <p>
+                     <pb n="19" facs="tcp:97836:10" rendition="simple:additions"/>
+And if upon a ſolid Stating the Queſtion, and ſober Re<g ref="char:EOLhyphen"/>ſolve,
+we are found <hi>detaining</hi> that which of Right belongs
+to a Juſt <hi>Proprietor,</hi> whether of our <hi>Daily Labour,</hi> the yearly
+<hi>Produce</hi> of the Earth, or <hi>Encreaſe</hi> of our Herds, or <hi>what</hi> elſe
+God has made us Stewards of here, we ſhall be ready to re<g ref="char:EOLhyphen"/>ceive
+Inſtruction, and exerciſe our Conſcience in being con<g ref="char:EOLhyphen"/>tent
+with our own, which according to that Wiſdom God
+has given us hitherto, we have, of which the Lord is our
+Witneſs. And until we have otherwiſe learned, we muſt be<g ref="char:EOLhyphen"/>lieve,
+'tis rather thy <hi>Miſtake,</hi> than our <hi>Juſt Deſert,</hi> that cen<g ref="char:EOLhyphen"/>ſures
+out Sufferings as the meet Reward of Thieves and Rob<g ref="char:EOLhyphen"/>bers;
+who have in this Caſe kept a Conſcience void of Of<g ref="char:EOLhyphen"/>fence
+towards the God of our Peace; with whom we
+have Peace and Satisfaction, although in the World we
+(a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>others, who have been alike Faithful in this Matter) have
+had Trouble.</p>
+                  <closer>
+                     <signed>Thy Friend, Thomas Rudyard.</signed>
+                     <dateline>London, <date>3d Mo<g ref="char:EOLhyphen"/>neth,
+1673.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div type="letter">
+                  <pb n="20" facs="tcp:97836:11" rendition="simple:additions"/>
+                  <head>An Anſwer to
+C. Nedham's ſecond Letter.</head>
+                  <opener>
+                     <salute>FRIEND,</salute>
+                  </opener>
+                  <p>THy Former came to me in Manuſcript; as I intended its
+Anſwer this Latter in Print, before which I neither
+ſaw or h<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ard of it: However, it may pleaſe <hi>thee</hi> or thy <hi>Party</hi>
+(its againſt my Deſire) to trouble the Preſs; and whatever
+thy Hopes may be, in ſowing ſuch Seeds of Conteſt, ſure I
+am, thy Joy will be ſmall in Harveſt. I have not backt thy
+Queſtion, though as ſubtil as our Enemy could forge it; For
+I am ſure, Reaſon and Truth's on our ſide, which hath and
+yet will plead our Innocency, and prevail, whatever Dirt
+thou attempteſt to caſt upon us.</p>
+                  <p>
+                     <hi>Thou informeſt in thy Second.</hi> That thou haſt read the Caſe
+of Tythes reviewed by <hi>F. H.</hi> written in 1655. <hi>to which thy main
+Objection is,</hi> That there's not therein any one Argument or Reaſon
+to prove the People's Right to Tythes.</p>
+                  <p>
+                     <hi>Anſw.</hi> Conſider but what Tythes are; and 2d, <hi>F. H</hi>'s
+manner of writing; and that will remove thy Scruple.</p>
+                  <p>1. Know, that Tythes are no diſtinct and ſeperate Part of
+a man's Eſtate, as the Tenth Acre, &amp;c. but part of that En<g ref="char:EOLhyphen"/>creaſe
+which man's Labour, Induſtry, Care and Prudence
+which the Bleſſing of God has brought forth. Nor can Pope,
+Prieſt, &amp;c. without Conſent of the Farmer, take the Tenth,
+or any one Sheaf, &amp;c. as his own; but is by Law a Treſpaſſer,
+yea, in ſuch a Degree that he's Inditable for Theft and Rob<g ref="char:EOLhyphen"/>bery,
+as one that ſets upon the Perſon or Houſe of another to
+extort that by Violence he ſuppoſes his Due: For its not
+their's in the Senſe of the Law, before Separation made by
+<pb n="21" facs="tcp:97836:11" rendition="simple:additions"/>
+the Party; without which Pope, Prieſt or Impropriator can<g ref="char:EOLhyphen"/>not
+ſay of one Blade of Graſs or Ear of Corn, <hi>It is mins.</hi> Which
+clearly evidences not only <hi>Poſſeſſion,</hi> but the <hi>Propriety</hi> and
+<hi>Right</hi> to be ſolely in the <hi>Farmer.</hi> And as a clear Proof ſee
+the Statute 2 <hi>E.</hi> 6. it gives the <hi>Prieſt</hi> no ſuch Title as he can
+bring his Action, <hi>De placito quod reddat ei decimas,</hi> of a Plea
+that he render unto him his Tythes, but only an Action of
+Debt for not ſetting forth the Tenth, which <hi>Jure Divino</hi> theſe
+Law-Makers ſuppoſed was the Prieſts Right and Propriety.
+But had Pope, Prieſt, &amp;c. ſuch a Propriety as thou wouldſt
+Inſinnate, they might ſeparate or ſet them out themſelves,
+or bring an Action, <hi>Quod reddat, &amp;c.</hi> which by the Law they
+cannot, as the meaneſt Country-Practitioner may inform thee.
+So that Queſtion of, <hi>What Right in the People to Tythes,</hi> is but a
+noval ſtart up Query: yet in <hi>F. H.</hi> his Treatiſe wants not An<g ref="char:EOLhyphen"/>ſwer,
+if perſons will take Reaſon for Anſwer. For</p>
+                  <p>2. Obſerve the manner of his handling that Caſe of Tythes,
+it was according to that ſure Maxime, <hi>Errores ad ſua principia
+referre—eſt refellere;</hi> To bring Errors to their Firſt is to ſee
+their Laſt. He has clearly demonſtrated how Wickedly they
+were Introduced at firſt; how Cruelly Maintained for many
+after Ages; the Faithful Teſtimonies that <hi>Engliſh</hi> Martyrs and
+Forreigners have born againſt them all along; and that ſuch
+Forced Maintenance is no Goſpel-Maintenance; Where's
+room left then in Goſpel-Days for Scruple? But againſt Cauſ<g ref="char:EOLhyphen"/>leſs
+Cavils there's no Fence, of which I deſire with many o<g ref="char:EOLhyphen"/>thers
+to ſee an End.</p>
+                  <p>I can omit to obſerve how frequently thou re-itterateſt
+that Appellation upon us as <hi>Thieves</hi> and <hi>Robbers</hi> for taking
+what's not our own: What is there that we take with Vio<g ref="char:EOLhyphen"/>lence,
+or otherwiſe? How do we take what another never
+had? without taking thou ſuppoſeſt no Theft or Robbery, as
+its very true; ſo calleſt thou it taking to prove us Thieves? (for
+a Detainer without Taking is no Theft) Moſt Horrid Abuſe.
+Nay, were we Debtors which is the moſt thou canſt pretend
+to, and more then can be proved againſt us, muſt every one be
+called a Thief and Robber that payes not what his incenſed
+Adverſary charges upon him as a Debt? I am ſure thy Party
+<pb n="22" facs="tcp:97836:12" rendition="simple:additions"/>
+cannot deny but in this thou haſt been egrediouſly Abuſive, yea
+thoſe Appillations which in the Front of thy former Letter
+thou termeſt, <hi>Bitter Declamations in our Mouthes againſt our Cruel
+Adverſaries,</hi> is by thee utterred familarly againſt us, and
+with how much Reaſon let the Impartial judge.</p>
+                  <p>
+                     <hi>The next Exception to</hi> F. Howgill's <hi>Diſcourſe is,</hi> That after
+his Accompt of the ſeveral Kings by name, who had granted Tythes,
+&amp;c. he alledges, that they were Popiſh Kings, and gave them to
+Popiſh Prieſts; and that the Poor had a Share of them. <hi>To all
+which thou makeſt Four or five Demands.</hi>
+                  </p>
+                  <p>
+                     <hi>The Firſt,</hi> Whether every thing that was given by <hi>Papiſts</hi> to <hi>Pa<g ref="char:EOLhyphen"/>piſts</hi>
+for that Reaſon becomes the People's?</p>
+                  <p>
+                     <hi>Anſw.</hi> I anſwer in ſhort, It doth not.</p>
+                  <p>The Second, being an Explication of thy Firſt, I grant in
+the Affirmative.</p>
+                  <p>
+                     <hi>The Third,</hi> Might not Popiſh Kings do what they would with their
+own? Doth their baſlowing them to Bad <g ref="char:V">Ʋ</g>ſes give you or me a Right
+to them?</p>
+                  <p>
+                     <hi>Anſw.</hi> 1. I anſwer, What was their own, they might diſpoſe of
+as they would, not Prejudicing the Intereſt of another. But
+that the People's <hi>Labours, Induſtries, <g ref="char:V">Ʋ</g>nderſtandings, &amp;c.</hi> were
+their's, is oppoſite to the real Priviledge of a <hi>Chriſtian,</hi> and a
+<hi>Free-born Engliſh-Man,</hi> that owns no ſuch Bondage of work<g ref="char:EOLhyphen"/>ing
+for he knows not whom, nor yet for what.</p>
+                  <p>2. To the ſecond part of thy Demand I anſwer, That my
+Right preceded their Wrongful Impoſition. I claim not meer<g ref="char:EOLhyphen"/>ly
+becauſe of their <hi>Bad <g ref="char:V">Ʋ</g>ſes,</hi> but becauſe my Right was not
+in their Power to beſtow or continue to <hi>any <g ref="char:V">Ʋ</g>ſe</hi> againſt my
+Will. So I claim not under their Ill Uſes, but by my Title,
+which was above and before them, and ſhall be when their's is
+not.</p>
+                  <p>
+                     <hi>Thy Fourth,</hi> If the Clergy ought to give the Poor a Share with
+them, and do not, is the Fault yours or their's? How are your Con<g ref="char:EOLhyphen"/>ſciences
+conoerned? Are Tythes therefore your's, &amp;c? Your ſelves pay
+neither Poor nor Prieſt.</p>
+                  <p>
+                     <hi>Anſw.</hi> I anſwer, Thou canſt not make us in Fault for the
+Prieſts Covetouſneſs; but how long they have Robbed the
+<pb n="23" facs="tcp:97836:12" rendition="simple:additions"/>
+Poor is app<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rent. But the End of <hi>F. H</hi>'s inſtancing the Poor
+had a Share at firſt, was to ſhew how fairly and ſpeciouſly the
+Pope and Devil introduced this Impoſition of Tythes; I am
+perſwaded, much like the Daily Collections at the Doors of
+the late Licenſed Separatiſts Meeting-places for the Releaſe of
+Poor, and Defraying the Charge of their Goſpel-Miniſtry,
+as they term it; of which Contributions ſober Men believe the
+Poor have but a ſmall Share allowed them.</p>
+                  <p>
+                     <hi>Thy Fifth, Sayeſt thou,</hi> May ſuch M<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n as are Tenants to
+Hoſpital Lands ſay, They will pay no Rents, becauſe the Founders
+were <hi>Papiſts,</hi> and gave them to Poor People to Pray for them when
+Dead.</p>
+                  <p>
+                     <hi>Anſw.</hi> I anſwer, The Caſe is no way parallel. If I take
+Land of a Perſon, I'll pay him his contracted Rent; let him
+do what he pleaſe with his Money.</p>
+                  <p>But who's my Land-lord for Tythes? Of whom do I take
+a Leaſe? To whom is Rent reſerved? ? Unto whom came I
+into Covenant? This Caſe of thine is ſo forreign to the Mat<g ref="char:EOLhyphen"/>ter,
+that it has not the leaſt Alliance.</p>
+                  <p>
+                     <hi>Next,</hi> Thou telleſt thy Reader of thy Thanks to <hi>F. H.</hi> for thy
+Information of <hi>Stephen</hi> Biſh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p of <hi>Chicheſter,</hi> and <hi>W.
+Clifford,</hi>
+                     <note place="margin">pag. 10.</note> their giving the Tythes of ſome particular
+Lands for the Pardon of their Sins, Health of their or their Fa<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her's
+Souls. <hi>From all which thou obſe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>veſt, as if</hi> F H. <hi>having told
+thee, that Tythes were a</hi> Forced Maintenance, <hi>here himſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lf <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ath
+proved them to be a</hi> Free Gift.</p>
+                  <p>
+                     <hi>Anſw.</hi> 1. There might be ſufficient Exception t<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ken againſt
+thy warring the point, for which the Inſtances of <hi>R<gap reason="illegible" resp="#TECH" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>tephen,
+&amp;c.</hi> were brought, 'twas to prove the Evil and Superſtitious
+Ends for which thoſe Tythes were given, which thou om<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tteſt
+to anſwer.</p>
+                  <p>2. Here alſo thou bringeſt a falſe Concluſion from his Diſ<g ref="char:EOLhyphen"/>cou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe,
+and ſo abuſes that Author. What! becauſe ſome par<g ref="char:EOLhyphen"/>ticular
+Tythes were given, muſt Tythes in general be a Free
+Gift, as thy words inſinuate? But</p>
+                  <p>3. I anſwer Further, What was in their <hi>Power</hi> to give, as
+<pb n="24" facs="tcp:97836:13" rendition="simple:additions"/>
+the Tenth of their <hi>Mannors, &amp;c.</hi> or the Tenth of the <hi>Rents, &amp;c.</hi>
+relates not to us, but was free for them to give: but to give
+the Tenth of Man's <hi>Time,</hi> or his <hi>Labour, &amp;c.</hi> was not their's,
+and they could not intail it to after Generations, as I in<g ref="char:EOLhyphen"/>ſtanced
+before; and this is no Proof againſt us, or Matter of
+juſt Exception againſt him.</p>
+                  <p>Yet upon this Trivial and Groundleſs Exception, atten<g ref="char:EOLhyphen"/>ded
+with thy ſtrained Obſervation, art thou pleaſed to make
+Four or Five further Demands, which as they require I ſhall re<g ref="char:EOLhyphen"/>turn
+an Anſwer.</p>
+                  <p>
+                     <hi>The Subſtance of thy Firſt is,</hi> Whether if we or thou ſhould
+give a Ninth Part of our Eſtate to Teachers of our Per<g ref="char:EOLhyphen"/>ſwaſion,<note place="margin">pag. 10.</note>
+and then ſell the Eight Parts, and abate the
+Buyer proportionably in the Price, would not we accompt the Buyer a
+Thief that ſhould take that Ninth, and call it <hi>his own?</hi> Tell me
+whether this be the Caſe?</p>
+                  <p>
+                     <hi>Anſw.</hi> 1. I anſwer, Its not our Caſe; yet</p>
+                  <p>2. I grant that I may ſell or give a Ninth, Eighth, Se<g ref="char:EOLhyphen"/>venth,
+a Quarter, or Third, or what part or parts I will of
+my Eſtate, and make him to whom I give or ſell an Unqueſtio<g ref="char:EOLhyphen"/>nable
+Title (reſpecting the Law, &amp;c.) as alſo the Remainder
+to whom I pleaſe, provided hereby each knows his own, then
+let them diſpoſe of it to what Uſes they pleaſe, one hurts
+not the other: But I cannot ſell or intail the Labour, Strength,
+Induſtry, &amp;c. of any Man to the Service of another, or to
+Evil, or to my ſuppoſed Good Uſes.</p>
+                  <p>But if he whoh as any of the parts, tilling his own for that
+part, or in Conſideration of that Land, according to the Mind
+or Will of the Giver, Worſhip an Idol, pray for a Soul de<g ref="char:EOLhyphen"/>parted,
+&amp;c. or with the Increaſe and Profits thereof ſacrifices
+to the Devil or <hi>Heatheniſh</hi> Godds, it concerns not him who
+has the other: yet if I ſell the whole to one, as all our Deeds
+of Purchaſe are, having dedicated a Ninth or Tenth to one
+or other Godd of my Imagination, this ſhall not obliege him
+to whom I have ſold to Pray for, Worſhip his Godd, Labour
+for his Deity, or ſuch like, to the Infringing of his Juſt Liber<g ref="char:EOLhyphen"/>ty,
+<pb n="25" facs="tcp:97836:13" rendition="simple:additions"/>
+or Impoſing upon that Perſon whom God in Chriſt has
+made a free Agent to <hi>Labour</hi> for him <hi>All</hi> the Hours in the
+Day, and the Dayes of his Life, and to dedicate the Fruit of
+his Induſtry to the Lord only, to whom he is accomptable, So
+I agree a Ninth of the Land, which is certain, I may give or
+ſell, which is certain and partionable; but part of Man's La<g ref="char:EOLhyphen"/>bour,
+&amp;c. neither give nor ſell I can, its not to be partitioned
+or divided; Man cannot ſerve two Maſters, God and the De<g ref="char:EOLhyphen"/>vil;
+for he's wholely the Lord's. I gave him not his Strength,
+his Induſtry, &amp;c. I cannot require it of him without his Con<g ref="char:EOLhyphen"/>ſent.</p>
+                  <p>I ſet him, or Leaſe him Lands, I may require it from him
+according to my Contract, and do him no Wrong. And
+here's the Difference; ſo that if Men have been ſo Wicked to
+give or grant, or thou or we be ſo Wicked and Unjuſt to give,
+grant or ſell what's not our own, our grant is void, and
+hurts not him whom we would Wrong: And he that's ſo In<g ref="char:EOLhyphen"/>jurious
+is the Thief and Agreſſor, and not he that deny<g ref="char:EOLhyphen"/>eth
+to ſubject himſelf to ſuch Injuſtice. And this is our
+Caſe.</p>
+                  <p>Thy Second Demand is but a Repetition of a for<g ref="char:EOLhyphen"/>mer,
+which had its Anſwer in its place;<note place="margin">pag: 10.</note> ſo I ſhall paſs
+it over.</p>
+                  <p>
+                     <hi>Thy Third Demand is,</hi> Whether we may not as fairly teach
+ſuch as are Tenants to <hi>Papiſts</hi> at this Day, or to vitious
+Land-lords,<note place="margin">p. 10, 11.</note> to pay no Rents, becauſe employed to Popiſh
+or Prophane <g ref="char:V">Ʋ</g>ſes, &amp;c?</p>
+                  <p>
+                     <hi>Anſw.</hi> I anſwer, We neither teach others, nor deny to pay
+our Rents to our Land-lords for being Vitious in their Con<g ref="char:EOLhyphen"/>verſation,
+or being <hi>Papiſtical, Epiſcopal, Presbyterian, &amp;c.</hi> in
+their Judgment; nor doth the Evil Uſes to which they im<g ref="char:EOLhyphen"/>ploy
+their Rents (which we are not probably privy, much leſs
+acceſſary unto) when in their hands concern us or them as Te<g ref="char:EOLhyphen"/>nants.
+But Tythes, if we pay, we know the Uſes and abet
+them, and cannot plead Ignorance to God and Man; as I
+<pb n="26" facs="tcp:97836:14" rendition="simple:additions"/>
+may inſtance a ſhort Caſe, As if I delivered a Knife this day
+to one, and to morrow he kill a man therewith, I (having
+neither been in his Counſel, nor abetted ſuch Action) am not
+guilty of ſuch Blood, nor an Acceſſory in the Law: But 'tis
+otherwiſe if I give it to that End, or abet ſuch Deſign, the Blood
+will then alſo lie at my Door. The Caſe then of Rent to Land-lords
+and Tythes to Prieſts differeth in this; the firſt abets
+not, but is Ignorant of the Evil Uſe or Murder, ſo Innocent;
+the ſecond knows them, and is an Acceſſory thereto, ſo Guilty
+of the Fact. Therefore do we Pay the Former, but Deny the
+Latter.</p>
+                  <p>
+                     <hi>Again, Thou querieſt,</hi> Do not Contracts between Buyers and
+Sellers of Land equally obliege, as between Land lord and Tenant?</p>
+                  <p>
+                     <hi>Anſw.</hi> I anſwer, They do equally obliege. I perceive this
+Query is but a Relick of the former miſtaken Aſſertion in thy
+former Letter, <hi>That Tythes are part of the Rents and Services re<g ref="char:EOLhyphen"/>ſerved
+in our Deeds of Purchaſe,</hi> which has Anſwer in its place.
+And he that's but a N<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vice of a Conveyancer knows very well,
+that there's not one Clauſe in our Deeds that oblieges us to pay
+Tythes; but to pay Rent to the Land-lord be ſure there wants
+not ſuch a Covenant in our Leaſe.</p>
+                  <p>And further, that I may explain to thy Underſtanding,
+That <hi>Tythes,</hi> for which thou pleadeſt, and the Prieſt perſecutes,
+are neither a <hi>Reſerved Rent</hi> nor a <hi>Tenth</hi> of my <hi>Eſtate,</hi> that I ne<g ref="char:EOLhyphen"/>ver
+purchaſed, nor a <hi>diſtinct Part</hi> that the Seller reſerved upon
+the Sale to ſome other Proprietor, as thou wouldſt inſinuate,
+appears in this, that they differ from the nature and tenure of
+all ſuch Proprieties and Intereſts; as for Inſtance.</p>
+                  <list>
+                     <item>1. If I have a Third or other Part of a Houſe, Land<g ref="char:punc">▪</g> &amp;c.
+which I have purchaſed, I can have Writ of Partition for ſuch
+part, and know my own.</item>
+                     <item>2. If Land-lord, I can enter, and Seize for my Rent.</item>
+                     <item>3. If chief Lord of the Fee, I can make a Diſtreſs for the
+chief Rent, &amp;c.</item>
+                     <item>4. If Title to any part of Land in others Poſſeſſion, I can
+<pb n="27" facs="tcp:97836:14" rendition="simple:additions"/>
+bring an Ejectment, or other real Action, and Recover my In<g ref="char:EOLhyphen"/>tereſt.</item>
+                  </list>
+                  <p>But the <hi>Prieſt, Pope, Presbyter<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> &amp;c.</hi> for Tythes can neither
+<hi>Diſtrain, Re enter, Seiſe, Eject, or Enter upon any man's Poſſeſſi<g ref="char:EOLhyphen"/>on;</hi>
+which ſhews the Miſtake thou haſt run upon through<g ref="char:EOLhyphen"/>out
+thy whole Diſcourſe, and that they have no ſuch Intereſt as
+Tenth, one or other part or juſt Propriety in our Eſtates, as
+thôu ſuppoſeſt, and doeſt unadviſedly ſuggeſt. And here's the
+<hi>miſtaken Foundation</hi> thou haſt unadviſedly <hi>built</hi> upon.</p>
+                  <p>
+                     <hi>Thy Fourth Demand is rather framed into a Reſolve then a
+Queſtion, alledging,</hi> (although others have eſteemed T<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thes due to
+God of Divine Right, &amp;c.) <hi>thou hopeſt,</hi> we are not required, nor
+do we believe them Spiritual.</p>
+                  <p>
+                     <hi>Anſw.</hi> I agree with thee, we do not, nor moral neither, un<g ref="char:EOLhyphen"/>der
+the Goſpel.</p>
+                  <p>
+                     <hi>But to end this Paragraph thou telleſt thy Reader,</hi> That ſome
+think, that if they were indeed Spiritual, neither we nor the Prieſts
+would ſtrive for them.</p>
+                  <p>
+                     <hi>Anſw.</hi> A Quaint Obſervation: And muſt we believe, that
+thoſe <hi>Spirituals</hi> of thy Caſt ſhould only pallate them, if they
+were ſuch? If that be thy Judgment, why ſo much Conteſt
+about ſuch Carnals?</p>
+                  <p>
+                     <hi>But I paſs it, to thy Fifth Demand</hi> (<g ref="char:V">Ʋ</g>nto <hi>F. H.</hi> his alledging,
+That the Law gives no Man a Property, but preſerves mens
+Rights, &amp;c.) <hi>thou excepts,</hi> That Laws are made for Maintenance
+of the Poor, &amp;c.</p>
+                  <p>
+                     <hi>Anſw.</hi> I anſwer, They are good Laws; and 'tis Equal and
+Juſt the Poor ſhould have Relief. And to give to the Poor
+was a Law before men made a Statute to enforce the Juſtneſs
+thereof; which if Tythes had been to a pretended Preacher of
+the Goſpel, the Caſes had been parallel, which now hold no
+Equality.</p>
+                  <p>
+                     <hi>But ſayeſt thou,</hi> The Author <hi>viz. F. H.</hi> hath not yet proved,
+why Laws may not be admitted for Maintenance of Miniſters, as
+well as Poor?</p>
+                  <p>
+                     <pb n="28" facs="tcp:97836:15" rendition="simple:additions"/>
+                     <hi>Anſw.</hi> To which I anſwer, Thou requireſt a meer Abſurdity
+of him: What! to prove a Negative? Wiſe Men will tell
+thee, He who affirms muſt prove. Make but good the Affir<g ref="char:EOLhyphen"/>mity,
+which hitherto thou haſt not, and we will grant thee
+the Negative. Its a Task I queſtion not when ſet about will
+coſt thee Pains; and there I leave it.</p>
+                  <p>I have not willingly avoided any Queſtion or Query thou
+haſt put or deſired Anſwer in; but according to my Under<g ref="char:EOLhyphen"/>ſtanding
+given thee a plain Reſolve to whatever might proba<g ref="char:EOLhyphen"/>bly
+remain a Debt or Scruple in the Mind of thee or thy Friends
+concerning us, and our Teſtimony toward God in this Mat<g ref="char:EOLhyphen"/>ter.</p>
+                  <p>That any of our Perſwaſion in <hi>London ſhould have their Rea<g ref="char:EOLhyphen"/>ſon
+vanquiſht in the Strength of thy Arguments,</hi> as thou affirmeſt,
+I aſſure thee, it appears to me <hi>ſtrange,</hi> if not <hi>incredible:</hi> I
+muſt be plain to tell thee, I rather judge the <hi>Over-Fondneſs</hi> of
+thy own new Notions, occaſioned thee to miſtake the Perſons
+or their Judgments in this Caſe of Controverſie. And how<g ref="char:EOLhyphen"/>ever
+thou mayeſt conceitedly term our Sufferings in this Cauſe
+Acts of Prodigality, we know its not for Self, but for the God
+of our Life that we undergo ſuch Spoil and Hardſhip from our
+Mercileſs Enemies.</p>
+                  <p>And I muſt tell thee, That I have not only weighed thy
+Arguments againſt our Teſtimony, which have their Anſwer;
+but alſo that Addreſs thou makeſt to our Friends, which with<g ref="char:EOLhyphen"/>out
+due Obſervation I cannot let ſlip, the reading whereof
+brought to mind that Parallel of <hi>Judas</hi> his Salutation of our
+Saviour (when he betrayed him into the Hands of the Prieſts)
+<hi>Hale Maſter,</hi> and kiſſed him. So it pleaſeth thee to give us the
+Appellation of thy <hi>Dear Friends,</hi> and with ſmooth words to tell
+us, <hi>Thy Soul truly pitties us;</hi> when alas, 'tis but a Mask to co<g ref="char:EOLhyphen"/>ver
+that Face that would either <hi>Bluſh</hi> or <hi>wax Pale</hi> at ſuch Acti<g ref="char:EOLhyphen"/>ons.
+The Wiſe Man tells thee, <hi>He that Hateth Diſſembleth with
+his Lip<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, and layeth up Deceit within him,</hi> Prov. 26. 24. Whoſe Cauſe
+pleadeſt thou againſt us<g ref="char:punc">▪</g> Into whoſe Hands wouldſt thou betray
+us after thy ſmooth Salutation? Is it not into ſuch Hands as
+<pb n="29" facs="tcp:97836:15" rendition="simple:additions"/>
+                     <hi>Judas</hi> did his Maſter? why telleſt thou us not? Art thou aſha<g ref="char:EOLhyphen"/>med
+in plain words to diſcover? yea, not improbable that's
+in ſecret reſerve. But its not difficult to gueſs who deſires to
+be Executioner: What! <hi>thy Dear Friends,</hi> and yet
+charging us,<note place="margin">p. 13 14.</note> 
+                     <hi>That under a diſguiſe of Godlineſs for many
+years we have been highly guilty of thoſe Wicked Sins of Stealing,
+Slandering and Lying,</hi> and what not; yea, inſinuating, <hi>That
+we are more Criminal before God and Man then Common Notorious
+Thieves:</hi> And ſhall not we know what Mercy thou haſt in ſtore
+for thy <hi>Dear Friends</hi> after all? yea; ſayeſt thou, <hi>Malefactors
+ſuffer Death by Law for ſtealing things of ſmall Accompt, but
+your Robbery is oft of great Value;</hi>
+                     <note place="margin">p. 14.</note> Here's the Judgment,
+which thou wanteſt a <hi>New-England</hi> Law to execute. <hi>For the
+Laws here</hi> (ſayeſt thou) <hi>are very Favourable:</hi> Yes, they extend
+only to the depriving us of our Civil Liberty, Impriſonment
+of our perſons, and Confiſcation of our Goods and Eſtates
+(<hi>Life excepted</hi>) too eaſie a requital for ſuch <hi>Facts</hi> as thou wouldſt
+make thy <hi>Dear Friends</hi> guilty of. What ſhall be ſaid to this?
+but as the Wiſe Man, <hi>That Violence covereth the Mouth of the Wick<g ref="char:EOLhyphen"/>ed,
+and his Tender Mercies are Cruel,</hi> Prov. 10. 6. 12. 10. If
+this be Entertainment for thy Friends, what Quarter muſt E<g ref="char:EOLhyphen"/>nemies
+expect at thy hands?</p>
+                  <p>Much more might be added, or returned upon thee; but
+whether we or thou and thy Party have uttered a Reproach or
+Slander, or are guilty of Lying, Stealing and bearing Falſe
+Witneſs againſt our Neighbour, let God's Witneſs in the
+Unpr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>judiced amongſt, them that have heard thy Charge and
+our D<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fenc<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> give a Judgment.</p>
+                  <p>And now I muſt tell, I take it well from thy Hands or the
+Printer, that have been ſo kind to place <hi>J. Wilfford</hi>'s Letter to
+cloſe thy Diſcourſe, notwithſtanding it ſeems to thee as nothing
+to the Queſtion; I am ſatisfied, the Simplicity of his will wound,
+wher<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thy Sophi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry cannot, and ſhall have a place in the Con<g ref="char:EOLhyphen"/>ſciences
+of ſuch who are at this day real Enquirers after the
+Good Old Way and Promiſed Land.</p>
+                  <p>And now ſince I have been ſo fair to anſwer thy Queſtion,
+<hi>What Right the People have to Tythes?</hi> judge it not an Unreaſona<g ref="char:EOLhyphen"/>ble
+Demand to anſwer me, Who has that Right thou denyeſt
+<pb n="30" facs="tcp:97836:16" rendition="simple:additions"/>
+us? Let's know whether it be the <hi>Popiſh, Epiſcopal, Presbyterian,
+&amp;c.</hi> Cauſe thou pleadeſt? If thou be an Advocate to a Juſt
+Cauſe, never be aſhamed of thy Client. How conſonant the
+Cauſe is to thy late Profeſſion in Civil or now Religious Mat<g ref="char:EOLhyphen"/>ters,
+I leave to thy own Conſideration: I ſhall forbear <hi>Refle<g ref="char:EOLhyphen"/>ction,</hi>
+and requeſt thee, <hi>That if any thing yet remains, wherein thou
+mayeſt ſuppoſe Writing or the Preſs Serviceable to thy Intereſt;</hi> ra<g ref="char:EOLhyphen"/>ther
+choſe ſolid Arguments then ſevere Reflections to convince
+the Reader; nor let thy Prejudice paſs Judgment upon a ſup<g ref="char:EOLhyphen"/>poſed
+Offender till thou haſt heard his Plea and Defence; 'tis
+poſſible his Innocency may correct that Prejudice which leads
+to Falſe Judgment.</p>
+                  <p>
+                     <hi>And to conclude remember the Wiſe Man's words,</hi> It is an
+Honour for a Man to ceaſe from Strife; but every Fool will be med<g ref="char:EOLhyphen"/>dling,
+<hi>Prov.</hi> 30. 3. If thou haſt done Fooliſhly in lifting up thy ſelf,
+or if thou haſt thought Evil, lay thine Hand upon thy Mouth: the for<g ref="char:EOLhyphen"/>cing
+of Wrath bringeth forth Strife, <hi>Prov. 30. 32, 33. This at
+preſent may ſuffice (till I have thy Reply) from him who is a Re<g ref="char:EOLhyphen"/>al
+Friend to thee and all Men</hi>
+                  </p>
+                  <closer>
+                     <signed>Thomas Rudyard.</signed>
+                  </closer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:97836:16"/>
+                  <p>TYTHES
+NO
+Goſpel-Ordinance.</p>
+                  <p>OR,
+A Juſtification of all thoſe, whonot only in this
+Age, but in the Ages paſt ſince the Apoſtacy, have
+for Conſcience ſake born their Teſtimony
+againſt TYTHES.</p>
+                  <p>Wherein is Demonſtrated, That it is directly contrary
+to Chriſt's Commiſſion given to his Miniſters, and
+contrary to the Apoſtles Practice;</p>
+                  <p>Occaſioned through <hi>C. N</hi>'s Unreaſonable and Unchriſtian like
+Contending for the Lawfulneſs of Tythes.</p>
+                  <p>By <hi>G. W.</hi> a Lover of the Truth.</p>
+                  <q>He that Juſtifieth the<g ref="char:punc">▪</g> Wicked, and he that Condemneth the Juſt, are
+both an Abeminaiion to the Lord, <bibl>Prov. 17. 15.</bibl>
+                  </q>
+                  <p>Printed in the Year, 1673.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:97836:17"/>
+                  <pb n="33" facs="tcp:97836:17"/>
+                  <head>TYTHES
+No Goſpel-Ordinance.</head>
+                  <p>MAN by Wiſdom knows not God; neither can the
+Things of God be found out by Man's Wiſdom,
+but are altogether hid from it; they are of too
+pure a Nature for that Eye to ſee, or for that Heart to receive:
+But there is an Eye, that God in his Loving-kindneſs has open<g ref="char:EOLhyphen"/>ed,
+that can with great Delight behold thoſe Glorious Truth<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+that he has promiſed; and there is a Heart that can Rejoyce
+in the ſenſible Feeling of the opening of that Wiſdom that
+the World by all their Wiſdom cannot ſee or know: This was
+it that cauſed <hi>Abraham</hi> to Rejoyce, who ſaw the Day of Chriſt,
+his Eye affected his Heart, he rejoyced at what he ſaw; and
+bleſſed <hi>Paul</hi> counted all things Loſs in reſpect of this True Wiſ<g ref="char:EOLhyphen"/>dom
+and Knowledge, which only is to be found in Chriſt Jeſus,
+through the Death of the Croſs, which crucifies unto all this
+World's Wiſdom and Glory, ſo that Death having paſt there<g ref="char:EOLhyphen"/>on,
+that New Life may be witneſſed wherein all things become
+New; and into this Life hath the Lord our God begotten a
+Remnant, which are accounted to him for a Generation, un<g ref="char:EOLhyphen"/>to
+whom he has revealed his Counſels, and his Wiſdom is with
+them, and by it are they made able to judge of things that
+differ; and in which Judgment we certainly find where Men's
+Standings are, the Lord being come in Numbers of his Saints
+to Judge the Inhabitants of the Earth, ſo it was in the Apo<g ref="char:EOLhyphen"/>ſtles
+dayes, and ſo it is now in the True Church: <hi>For the
+Spiritual Man judgeth all things, yet is <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e Judged of no Man;</hi>
+and without all Doubt the Apoſtle in thoſe Dayes, by the
+Wiſe Men of this World, was eſteemed a Boaſter, yet was he
+certain of what he ſaid, knowing, that in the True Wiſdom
+<pb n="34" facs="tcp:97836:18"/>
+of the Spirit of God, they could fathom all Men, but could
+not be fathom'd by them that were out of this Wiſdom: The
+Wiſdom of the Servants of the Lord is in the Light from a<g ref="char:EOLhyphen"/>bove;
+but the others is in the Darkneſs from below, which
+cannot comprehend the Light, nor thoſe that live therein:
+Yet Vain Man in this Fallen Wiſdom will be a Judging and
+ſpeaking Evil of the things he knows not, among whom is
+found <hi>C. N.</hi> although to his great Infamy and Confuſion;
+who has wedded the Cauſe that Antichriſt by his Servants has
+ſupported againſt the true <hi>Chriſtians</hi> in many Ages; and hath ju<g ref="char:EOLhyphen"/>ſtified
+that Ungodly Generation, &amp; condemned the Generation
+the Righteous, who in the Patience of the Lamb, and in his Li<g ref="char:EOLhyphen"/>ving
+Teſtimony, have born their Teſtimony againſt that Car<g ref="char:EOLhyphen"/>nal
+Impoſition and Maintenance of <hi>Tythes,</hi> as do teſtifie Re<g ref="char:EOLhyphen"/>cords
+in Eceleſiaſtical Matters; witneſs that Truly Noble-Minded
+<hi>William Thorpe,</hi> who among the reſt of the Teſtimonies
+he had for the Lord, this was one againſt Tythes; he lived in
+the dayes of <hi>Henry</hi> the 4th of <hi>England,</hi> and was perſecuted by
+<hi>Thomas Arundell,</hi> the then Arch Biſhop of <hi>Canterbury,</hi> a Man
+highly infamous for his Envy to the Truth, and to thoſe that
+followed the Lord according to the Meaſure of Light they had
+then received; where <hi>Thorpe</hi> openly declared, <q rend="inline margQuotes">"That although
+<hi>Tythes</hi> were brought in and ordained by <hi>Gregory</hi> the 10th,
+yet it was not conſonant nor agreeable to Truth; nor the
+Practice of the Apoſtle <hi>Paul,</hi> whoſe Example (ſaith he)
+all ought to follow, even as he was a Follower of Jeſus
+Chriſt, who received no Tythes, neither did his Diſciples;
+but God opened the Hearts of thoſe they went unto, ſo that
+they had no Lack; and ſome wrought with their Hands, that
+ſo the Goſpel might not be thought Burthenſom by any, ſuch
+Care took they of the Goſpel."</q> The whole Diſcourſe of <hi>Wil<g ref="char:EOLhyphen"/>liam
+Thorpe</hi> with <hi>Thomas Arundell</hi> touching this Matter would
+be too tedious to inſert here, although it is truly deſerving
+our Knowledge, and may be found at large in <hi>Fox</hi>'s <hi>Acts</hi> and
+<hi>Monuments</hi> in his Univerſal Hiſtory, fol. 669, 700.</p>
+                  <p>Thus we may perceive, that the Honeſt-hearted, not only
+in this Age, but in ſeveral Ages, have born their Teſtimony
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> this ſettled and forced Maintenance, as being bad in its
+<pb n="35" facs="tcp:97836:18"/>
+Original; and that that is Bad in its Root cannot be Good in
+its Fruits: It was a Work brought forth in the fallen Wiſdom,
+becauſe directly Contrary to that Way that Chriſt ordered his
+Miniſters to walk in, for when they were to go forth, they
+were not to make any Proviſion, but to relie on the Lord that
+ſent them forth; and when they returned, their Anſwer was,
+<hi>That they lacked nothing:</hi> And the Apoſtles, who were the true
+Miniſters in the true Church, followed the ſame Example, who
+had the Lord to take Care of them, who alwayes takes Care of
+his own.</p>
+                  <p>But the Wiſdom of this World hath faſhioned out to it ſelf
+a Church, ſome after one Faſhion, ſome after another, ſo that
+the whole of their Inventions makes up a Spiritual <hi>Babel;</hi> and
+all her Likeneſſes and Imitations are truly diſcerned by thoſe
+that follow the Lamb, her gilded Cup cannot deceive them;
+the Elect of God cannot be deceived, it is not poſſible they
+ſhould; neither canſt thee <hi>C. N.</hi> deceive them, although thou
+appear with a very fine ſpun Thread of <hi>Babel</hi>'s Wiſdom: yet
+in the Wiſdom of the Lord, which is with his People, thou
+&amp; the reſt of you that are concerned in this <hi>Work</hi> are found out,
+&amp; weighed in the <hi>Ballance of God's Sanctuary,</hi> &amp; found to be of one
+Spirit with the former <hi>Builders</hi> of <hi>Babel</hi> that were in times paſt,
+whoſe Names ſtink to Poſterity, and thus have brought on your
+own Heads all the Righteous Blood that hath been ſhed on this
+Accompt; and it doth cry to God for Vengeance, becauſe you
+have oppoſed the Righteous Seed in many Ages, and ſtill do,
+notwithſtanding that the Lord has very eminently appeared
+for and with his Servants on this Accompt, by enabling them
+in the Virtue of his own life, to teſtifie againſt the Hireling
+and his Wayes; who cryes to the People, <hi>Hear the Word of the
+Lord,</hi> and they have it not, neither hath the Lord ſent them:
+<hi>But Chriſt's Sheep knows his Voice, and a Stranger they will not follow;</hi>
+and therefore it is, we cannot follow thee <hi>C. N.</hi> thy Voice is a
+Strangers Voice, thou ſavoureſt not the things that are of God,
+but of the Serpent, wherefore we may juſtly ſay to thee, get
+thee behind us Satan; For what doſt thou aim at? Is it not to
+ſave thy ſelf? or is it not that thou wouldſt provide for the
+<pb n="36" facs="tcp:97836:19"/>
+Hirelings of thy own Fraternity, hoping that you ſhall yet
+ſee ſuch dayes as you deſpiſe, and therefore plead for them at
+a diſtance? but the Lord to his everlaſting Praiſe has delivered
+us out of the Hand of that Lordizing Generation, and hath
+given unto them the Reward of their Works, even Shame and
+Contempt.</p>
+                  <p>And Friends and People, ſince we have to do with theſe
+Workers in Myſtery <hi>Babylon,</hi> if we would know them aright,
+we cannot know them truly but in their Ground, in their
+Rice, in that that's hid like a Snake in the Graſs, that that co<g ref="char:EOLhyphen"/>vers
+itſelf with a Fig Leaf of Self-Righteouſneſs, they ap<g ref="char:EOLhyphen"/>pear
+like Sheep, but at laſt manifeſt themſelves to be inwardly
+Ravening Wolves, and ſecretly ſmite the Righteou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in the
+hinder parts, as they are in their Travel towards the Holy Land,
+as the Enemies of God and his People did in the dayes of old
+that Curſed Race of <hi>Eſau</hi> (who no doubt could claim ſome
+Right in <hi>Abraham</hi> to be their Father) yet they were in one
+Spirit with the <hi>Philiſtines<g ref="char:punc">▪</g>
+                     </hi> and would both of them have hin<g ref="char:EOLhyphen"/>dred
+the true <hi>Iſraelite:</hi> to enter and enjoy the Poſſeſſion that
+God had Provided for them. Oh Fooliſh M<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n, and Unwiſe I
+Know you not, that none of your Weapons againſt God's In<g ref="char:EOLhyphen"/>heritance
+ſhall proſper: And do you Profeſſors ſtill go on from
+one degree of Wickedneſs to another, till you meet joyntly
+in Unity of ſpirit with the Wicked Enemies of God, that
+have been in many <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ges, and ſtill are, and to ſtrengthen the
+Hands of thoſe that ſhould be weakened, and ſeek to weaken
+the Hands of thoſe that ſhould be ſtrengthened, the Lord God
+of our Life, that you have oppoſed, will c<gap reason="illegible" resp="#TECH" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tainly remember
+you, and all you Workers in Myſtery <hi>Babylon</hi> ſhall be ſtripped
+naked to the loathing of your Profeſſions: For in you is found
+the Blood of the Saints, you being found in the Unity of ſpirit
+with the Former and Latter Perſecutors. The Day is come
+that God is revealing the Secrets or Men by his Son Chriſt Je<g ref="char:EOLhyphen"/>ſus;
+and the hidden things of <hi>Babylon,</hi> which you plead for,
+are brought to Light by the Brightneſs of his coming, from
+which you cannot be hid. And he hath brought in an Everlaſt<g ref="char:EOLhyphen"/>ing
+Prieſthood; and hath put an End to that old Prieſthood,
+<pb n="37" facs="tcp:97836:19"/>
+and its Maintenance, which in God's Day and Time was
+Glorious, of which Prieſthood you never were; and there<g ref="char:EOLhyphen"/>fore
+with what Confidence can you plead for that Mainte<g ref="char:EOLhyphen"/>nance
+that never did the Work of that Prieſthood? And it
+is moſt manifeſt that that Prieſthood is now changed from
+whence the Apoſtle pleads a Neceſſity of a Change of that
+Law, ſince the Prieſthood was changed, and you your ſelves
+confeſs that <hi>that Prieſthood is changed;</hi> and wherefore then will
+you plead for keeping that part of the Law? the Reaſon here<g ref="char:EOLhyphen"/>of
+is ſo manifeſt (that it is Self-Intereſts) that you cannot hide
+your ſelves; for having not your Call from God to be Mini<g ref="char:EOLhyphen"/>ſters,
+you cannot depend on him for a Livelihood; and ſo being
+unacquainted with the Life of Faith, but living in that wiſdom
+that is from below, will be aſſured of that Maintenance. And
+thus 'tis plain, who it is thar pleads for Tythes; it is Man's Self
+in his fallen Wiſdom; and if Self be not anſwered, Self will
+perſecute for it, if he hath it not; and this hath been their Pra<g ref="char:EOLhyphen"/>ctices
+for many Ages, and ſtill are.</p>
+                  <p>And further, Conſider what the Effects of this Settled Main<g ref="char:EOLhyphen"/>tenance
+have been all along ſince this Settled Maintenance
+was impoſed; Do not Hiſtories at large acquaint the World
+with the Clergies unſufferable Pride, living in Exceſs and
+Wantonneſs, and in the Venities of the <hi>Heathen;</hi> inſo<g ref="char:EOLhyphen"/>much
+that thoſe that feared the Lord could do no leſs then
+cry out againſt them, and lamented the Curſed Fruits that
+were produced by this Settled Maintenance of Tythes, to be
+<hi>no Preduce of any Goſpel-Ordinance,</hi> but the <hi>Invention</hi> and <hi>Fruits
+of the Fallen Wiſdom of Man,</hi> and ſo clearly out of the Way of
+the Lord's Ordaining, who ſent his Miniſters out without a<g ref="char:EOLhyphen"/>ny
+of theſe Proviſions, and they lacked nothing, and that was
+Chriſt's Way, hereby teaching his Miniſters to live by Faith;
+and tha<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> as they had Freely Received, ſo they were Freely to
+Give; and he that goeth forth otherwiſe has not Chriſt's Com<g ref="char:EOLhyphen"/>miſſion.</p>
+                  <p>Therefore harken all you that are concerned in this Work
+with <hi>C. N.</hi> Conſider whom it i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> you ſerve; for herein the Lod
+bears me witneſs; <hi>You are of A<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tichriſt:</hi> Let your Covers be
+<pb n="38" facs="tcp:97836:20"/>
+what they will, the Lord by his Spirit hath found you out, and
+you are of that Man of Sin whom Chriſt has revealed by the
+Brightneſs of his Coming, and will deſtroy by the Breath of
+his Month; your Works have been the Works of <hi>Babel's</hi> Brats,
+whom God hath meeted out for Deſtruction: And Bleſſed
+ſhall thoſe Men be, that in pure Love to God have their Hearts
+ſitted, as the Spiritual Archers of God, to ſhoot at you, oh
+you Sons of <hi>Babel!</hi> Bleſſed be our God, who hath made our
+Bow to ſtand in Strength againſt you<g ref="char:punc">▪</g> and in the Power of
+his Might we ſhall not ſpare, emptying our Quivers at you,
+becauſe God is on our ſide; and in God we believe, that in
+his Strength we ſhall remain Conquerers; For our Faith
+ſtandeth in the Power of God, which Power is over you
+all.</p>
+                  <p>This was the Plea of the Wicked in the dayes paſt, <hi>We have
+a Law;</hi> by which they crucified the juſt; it is the ſame ſtill
+with the Children of the ſame Father: when they are argued
+with in Matters of Tythes, by <hi>Chriſtian</hi> Arguments are, put
+to their Wits End, ſay they, <hi>We have a Law for our Tythes<g ref="char:punc">▪</g>
+and we will hav<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> their;</hi> and this is that that <hi>C. N.</hi> has to
+ſay, <hi>They have a Law for it, &amp;c.</hi> But it is evident, that
+this was no Law of Chriſt's Inſtitution, nor of his Apo<g ref="char:EOLhyphen"/>ſtles,
+whom we are to follow, as they were Followers of
+Chriſt.</p>
+                  <p>And further obſerve, That Perſecution, Pride, and Ar<g ref="char:EOLhyphen"/>rogancy,
+and the like, have been the Fruits of ſuch as
+have and do Contend moſt for it; and if according to
+Chriſt's Doctrine, we are to judge of the Tree by the
+Fruit, this muſt be an Evil Tree, that hath produced ſuch
+Bad Fruit. But what is the Reaſon that <hi>C. N.</hi> with thoſe
+of his Brotherhood, concern themſelves now for Tythes?
+They are they that are generally diſplaced from them: But
+have they not an Eye to Reverſion? a Hope to get into the
+Saddle if they could <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et the Riders off? And is it not
+therefore you would keep the Beaſt in Readineſs, that you
+might get on as ſoon as Occaſion ſhall offer? Hath not God
+let ſome of you have a Tryal of your Hearts already in ſuch
+<pb n="39" facs="tcp:97836:20"/>
+a Condition; and who abounded more in Pride and Idle<g ref="char:EOLhyphen"/>neſs
+then your Families? Who were Examples of more
+Vanity then your Wives and Children? And are you not
+the ſame ſtill, where you can? And as you then Lordized
+over ſuch as beard you, ſo do you ſtill if any one do
+but Contradict you, and Conſcientiouſly Contend with
+you; therefore may we not conclude, that your Deſires
+to be in the Rooms of thoſe that are now in, is not becauſe
+they are Worſe then you, but becauſe you would Eat the Fat,
+and Drink the Sweet, and Live in Idleneſs, as you did be<g ref="char:EOLhyphen"/>fore?
+It is high time for you to refrain your luſting after
+the Onions and Garlick of <hi>Egypt,</hi> this <hi>Egyptian</hi>-Maintenance,
+that gratified their and their Families Luſts? And if you
+were come unto the Wiſdom of God, that teach<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th to pro<g ref="char:EOLhyphen"/>fit
+by every Diſpenſation, you would conſider, God's Hand
+has been lifted up againſt you, and for what; has not your
+Evil Entreating the Tender People of the Lord, ſome of
+them for Refuſing to Pay Tythes, ſome for other Cauſes, been
+the Reaſon of it, &amp;c? But as in the dayes of Old, ſo now;
+they will not ſee, although the Lord's Hand hath been lif<g ref="char:EOLhyphen"/>ted
+up againſt them; and it is vident to ſome that knew ſome
+of you in the dayes paſt, that at ſome times ſome Good
+Deſires after God were begotten in ſome of you, until they
+were choaked by your Coveting and Complying under your
+Fat Benefices; and this the true Witneſs of God in your
+Conſciences will bear you Witneſs of in the Secrets of
+your own Hearts; and Glad ſhould <gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> be to hear or ſee
+that ſuch were returned to thoſe Deſires again: but how
+few of you are come to be ſenſible of what you have done,
+and to cry out, <hi>That you have offended the Lord and his Peo<g ref="char:EOLhyphen"/>ple;</hi>
+but on the contrary, your Deſires are <gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> after that Sweet
+Morſel that you have loſt, and after your Lordizing Power,
+which God in his Mercy has delivered his <gap reason="illegible" resp="#TECH" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ple from.</p>
+                  <p>Happy were it for you, that yet you would conſider,
+why the Lord hath and doth Contend with you, if that per<g ref="char:EOLhyphen"/>adventure
+your Eyes might be opened, your Ears unſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>opped,
+and your Hearts affected, before this Glorious Day paſs over
+<pb n="40" facs="tcp:97836:21"/>
+your Heads, wherein God in his Great Loving-kindneſs hath
+viſited Thouſands, otherwiſe you ſhall <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> remain in your E<g ref="char:EOLhyphen"/>ſtate
+of Darkneſs, whilſt others dwell in the Light, and
+are at Unity with him that is True Light, whoſe Light ma<g ref="char:EOLhyphen"/>ny
+of you have oppoſed, and many of you have Blaſphe<g ref="char:EOLhyphen"/>med,
+by ſpeaking Evil of it. Yet I would make a Diffe<g ref="char:EOLhyphen"/>rence
+of you, and in the Fear of the Lord would be con<g ref="char:EOLhyphen"/>tent
+to be made an Inſtrument to pull ſome of you, as
+Brands out of the Fire, that you might be ſaved, and might
+come to know that Bleſſed Fellowſhip that is in the Light,
+and with thoſe that walk therein, that ſo you might be<g ref="char:EOLhyphen"/>come
+Miniſters indeed, Miniſters of a Savory Life, Savo<g ref="char:EOLhyphen"/>ry
+to God, and Savory to the People of the Lord; but
+you are too wiſe in your own Wiſdom to receive him that is
+eſteem'd Fooliſhneſs to that Wiſdom that is from below; you are
+too high to receive and believe in the True Light, by whom
+all Men are lightened that come into the World, who is
+the Way to the Father, and in which Light there is Life,
+which Life Leavens the Soul to God; this Light you have
+ſtumbled at; and there is no coming to the Father but by it;
+he is the Way, and the Truth: But it is the Poor that
+have received the Goſpel, which is the Power of God;
+They were the Maſter-Builders that rejected him, as not fit
+for their Building; but to the True Builders he was,
+and is ſtill the Chief Corner Stone, on which is founded
+all God's Holy Building in all Ages of the World, both <hi>Pro<g ref="char:EOLhyphen"/>phets,</hi>
+and <hi>Apoſtles,</hi> and all the <hi>holy Martyrs:</hi> he is the Way, the
+Inward Way; the Light of Life, that quickent unto God;
+and thoſe that have experienced it can t<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll what its Good<g ref="char:EOLhyphen"/>neſs
+and Worth has been to their Souls. Wiſdom is juſti<g ref="char:EOLhyphen"/>fied
+of her Children, And could you, as the Apoſtles, count
+the Loſs of all your Attaintments Gain, that you might
+find this Knowledge, and this Wiſdom; then would you be
+Happy, in coming to know this Only True Teacher, the
+Light, which many of you in Pride and Arrogancy have
+Oppoſed <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>; and it will ſhew you all that ever you have
+done; and what plainer Evidence can you have? is not this
+<pb n="41" facs="tcp:97836:21"/>
+God's Salvation to the Ends of the Earth, to whom all are
+to look unto, and be ſaved: For to as many as received
+him, he gave Power to become the Sons of God; and he
+that hath received the Light, and hath Unity with it, hath
+Unity with God, with Chriſt, and with his People: And
+thus Chriſt is known to be a Saviour, who ſhall ſave People
+from their Sins.</p>
+                  <p>Therefore whilſt it is called to day, and the Peo<g ref="char:EOLhyphen"/>ple
+of the Lord have any Deſires to God for you, when
+the Light of the Lord dawneth in upon your Hearts, re<g ref="char:EOLhyphen"/>fuſe
+it not, but open unto him, and he will ſhew you his
+Salvation, he will lead you in a Way that you have not
+known, through the Pathes of Judgment unto the Land of E<g ref="char:EOLhyphen"/>verlaſting
+Reſt, which otherwiſe cannot be known.</p>
+                  <p>So all of you know, That the true Prieſthood is known,
+which differs from the Old both in Services and Mainte<g ref="char:EOLhyphen"/>nance;
+and unto this New Prieſtood all are invited, to his
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nward Teachings, who is the New and Living Way, Life
+is in Chriſt Jeſus, who is our Head, and from him doth his
+Members receive Life; becauſe he liveth, we do live alſo;
+and he that receiveth him, receiveth us whom he hath ſent<g ref="char:punc">▪</g>
+and yet of our ſelves we are nothing, but as he is pleaſed
+to operate in us, that ſo the Glory might be the Lord's,
+and that he might have the Preheminence over all, who is God
+bleſſed forever and ever.</p>
+                  <p>And as for the particular Anſwers to the Articles of
+<hi>C. N.</hi> it is another's Work, I meddle not with it; but ha<g ref="char:EOLhyphen"/>ving
+found <hi>C. N.</hi> a Blaſphemer againſt God, and his Holy
+City, who have born their Teſtimonies in the Spirit of the
+Lamb againſt that Forced Maintenance of Tythers, in ma<g ref="char:EOLhyphen"/>ny
+Ages of the World, I was not clear of him, nor of
+thoſe that are at Unity with him in this Work, until I
+had laid God's Judgments over their Heads, and there muſt
+leave it: And remember this for all that you have done,
+<hi>Vengeance is the Lord's, and he will certainly repay;</hi> and conclude
+with Deſires of Good-will to all Men, warning them, that
+<pb n="42" facs="tcp:97836:22"/>
+they joyn not with thee <hi>C. N.</hi> or any in thy Spirit in this
+Curſed Imployment of ſeeking to ſtrengthen the Hands of
+Perſecutors againſt God's Inheritance; for his People that
+ſerve him are precious to him, and they that touch them are
+as they that touch the Apple of his Eye: The Lord upholdeth
+the Righteous, and maketh them as Pillars, ſupporting the
+Truth, againſt which the Gates of Hell ſhall not prevail.</p>
+                  <closer>
+                     <signed>George Watt.</signed>
+                  </closer>
+                  <trailer>TYTHES</trailer>
+                  <pb facs="tcp:97836:22"/>
+                  <pb facs="tcp:97836:23"/>
+                  <pb facs="tcp:97836:23"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
